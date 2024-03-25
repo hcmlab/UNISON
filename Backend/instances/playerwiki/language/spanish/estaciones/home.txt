@@ -1,0 +1,3 @@
+Casa (home)
+Cada ronda comienza con todos en casa. Una vez que todos los jugadores han regresado al puesto de origen, la ronda termina y comienza la siguiente. Si un jugador está en cuarentena, permanecerá en su casa durante toda la siguiente ronda, no perderá puntos de vida y dejará de estar infectado, si es que lo está. La estación de inicio contiene una interfaz que muestra información adicional del grupo y personal y más detalles sobre la mecánica del juego.
+

@@ -1,0 +1,1871 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: String Table Collection Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: String Table Collection
+  m_TableCollectionNameGuidString: f41771362c58ee845b203c476710c350
+  m_Entries:
+  - m_Id: 2109984120832
+    m_Key: MainMenu/Canvas (Environment)/MainMenu/GeneralBar/HostButton/Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2204792168448
+    m_Key: MainMenu/Canvas (Environment)/MainMenu/GeneralBar/JoinButton/Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2324631822336
+    m_Key: MainMenu/Canvas (Environment)/MainMenu/LobbyBar/LeaveButton/Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2685115473920
+    m_Key: MainMenu/Canvas (Environment)/MainMenu/LobbyBar/LobbyButton/Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3032823275520
+    m_Key: MainMenu/Canvas (Environment)/MainMenu/NameInputField/Text Area/Placeholder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3288977809408
+    m_Key: MainMenu/Canvas (Environment)/MainMenu/GeneralMenu/NoInstanceAvailableText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3391566290944
+    m_Key: MainMenu/Canvas (Environment)/MainMenu/GeneralMenu/RejoinButton/Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3553755832320
+    m_Key: MainMenu/Canvas (Environment)/MainMenu/AdminMenu/LoginCreate/LoginView/LoginText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3628905177088
+    m_Key: MainMenu/Canvas (Environment)/MainMenu/AdminMenu/LoginCreate/LoginView/Password/PasswordText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3731325886464
+    m_Key: MainMenu/Canvas (Environment)/MainMenu/AdminMenu/LoginCreate/LoginView/LoginButton/Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3893746114560
+    m_Key: MainMenu/Canvas (Environment)/MainMenu/AdminMenu/LoginCreate/CreateInstanceView/CreateInstanceButton/Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4013006954496
+    m_Key: MainMenu/Canvas (Environment)/MainMenu/AdminMenu/LoginCreate/CreateInstanceView/ScrollView/Viewport/Content/Instance/InstanceText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4100235894784
+    m_Key: MainMenu/Canvas (Environment)/MainMenu/AdminMenu/LoginCreate/CreateInstanceView/ScrollView/Viewport/Content/LobbySizeSlider/Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4250022879232
+    m_Key: MainMenu/Canvas (Environment)/MainMenu/AdminMenu/LoginCreate/CreateInstanceView/ScrollView/Viewport/Content/DaySlider/Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4360668618752
+    m_Key: MainMenu/Canvas (Environment)/MainMenu/AdminMenu/LoginCreate/CreateInstanceView/ScrollView/Viewport/Content/RelaxCooldownSlider/Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4676596178944
+    m_Key: MainMenu/Canvas (Environment)/MainMenu/LobbyMenu/PleaseWaitForMasterText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4764475236352
+    m_Key: MainMenu/Canvas (Environment)/MainMenu/LobbyMenu/StartButton/Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4880258998272
+    m_Key: MainMenu/Canvas (Environment)/MainMenu/ControlMenu/ResetToDefaultButton/Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5254533521408
+    m_Key: MainMenu/Canvas (Environment)/MainMenu/AudioMenu/VolumeEffectsSliderInputfield/Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5685213044736
+    m_Key: MainMenu/Canvas (Environment)/MainMenu/AudioMenu/VolumeAmbienceSliderInputfield/Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6087887200256
+    m_Key: MainMenu/Canvas (Environment)/MainMenu/AudioMenu/VolumeVoiceSliderInputfield/Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6220565618688
+    m_Key: MainMenu/Canvas (Environment)/MainMenu/AudioMenu/VoiceDetectionThresholdSliderInputfield/Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6487075889152
+    m_Key: MainMenu/Canvas (Environment)/MainMenu/AudioMenu/InputDeviceSwitch/Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6559758983168
+    m_Key: MainMenu/Canvas (Environment)/MainMenu/AudioMenu/ResetToDefaultButton/Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6820627914752
+    m_Key: MainMenu/Canvas (Environment)/MainMenu/SettingsMenu/TriggersText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6903306035200
+    m_Key: MainMenu/Canvas (Environment)/MainMenu/SettingsMenu/HospitalSoundText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6974797946880
+    m_Key: MainMenu/Canvas (Environment)/MainMenu/SettingsMenu/SyringesText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7036659736576
+    m_Key: MainMenu/Canvas (Environment)/MainMenu/SettingsMenu/ElementsText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7163461935104
+    m_Key: MainMenu/Canvas (Environment)/MainMenu/SettingsMenu/KeyBindingsOverviewText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7450151002112
+    m_Key: MainMenu/Canvas (Environment)/MainMenu/SettingsMenu/MinimapText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7506648276992
+    m_Key: MainMenu/Canvas (Environment)/MainMenu/SettingsMenu/MiscellaneousText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7536809517056
+    m_Key: MainMenu/Canvas (Environment)/MainMenu/SettingsMenu/FullScreenText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7725418979328
+    m_Key: MainMenu/Canvas (Environment)/MainMenu/AvatarMenu/RandomButton/Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7804661964800
+    m_Key: MainMenu/Canvas (Environment)/MainMenu/AvatarMenu/AvatarCustomizationScrollView/Viewport/Content/BodyItemSwitch/Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7833879486464
+    m_Key: MainMenu/Canvas (Environment)/MainMenu/AvatarMenu/AvatarCustomizationScrollView/Viewport/Content/HairColorItemSwitch/Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7855002001408
+    m_Key: MainMenu/Canvas (Environment)/MainMenu/AvatarMenu/AvatarCustomizationScrollView/Viewport/Content/SkinColorSwitch/Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7901462306816
+    m_Key: MainMenu/Canvas (Environment)/MainMenu/AvatarMenu/AvatarCustomizationScrollView/Viewport/Content/MaskColorSwitch/Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7964993429504
+    m_Key: MainMenu/Canvas (Environment)/MainMenu/AvatarMenu/AvatarCustomizationScrollView/Viewport/Content/ShirtColorSwitch/Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8009985728512
+    m_Key: MainMenu/Canvas (Environment)/MainMenu/AvatarMenu/AvatarCustomizationScrollView/Viewport/Content/TrouserColorSwitch/Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8041065521152
+    m_Key: MainMenu/Canvas (Environment)/MainMenu/AvatarMenu/AvatarCustomizationScrollView/Viewport/Content/ShoeColorSwitch/Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8926671839232
+    m_Key: MainMenu/Canvas (Environment)/MainMenu/Button/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11978007027712
+    m_Key: LocalizationBar/Canvas (Environment)/LocalizationBar/Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2921354585874432
+    m_Key: loginTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2921358230724608
+    m_Key: loginMessage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2921612925640704
+    m_Key: login
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2921657594978304
+    m_Key: cancel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2921743427215360
+    m_Key: missingNameError
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2921767364108288
+    m_Key: missingPasswordError
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2922130456616960
+    m_Key: wrongNamePasswordError
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2922309335293952
+    m_Key: backendError
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2922470224601088
+    m_Key: contactAdmin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2923308112322560
+    m_Key: helpDeskTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2923398663151616
+    m_Key: close
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2925766461005824
+    m_Key: dayEndedTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2925784085471232
+    m_Key: masterDayEndedMessage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2925824325623808
+    m_Key: ok
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2926924407676928
+    m_Key: callForHelpTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2926951821647872
+    m_Key: callForHelpMessage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2927630468423680
+    m_Key: newDayTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2927757862019072
+    m_Key: twoDaysInHospitalMessage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2927919506300928
+    m_Key: oneDayInHospitalMessage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2928028658868224
+    m_Key: releasedFromHospitalMessage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2928367772540928
+    m_Key: playerDayEndedMessage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2929141583880192
+    m_Key: openPetitionsMessage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2931605183832064
+    m_Key: newDayMessage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2931957404704768
+    m_Key: congratulationsTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2932041659883520
+    m_Key: congratulationsMessage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2932142193156096
+    m_Key: lobbyClosedTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2932143921209344
+    m_Key: lobbyClosedMessage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2932461656514560
+    m_Key: disconnectedTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2932463275515904
+    m_Key: disconnectedMessage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2939124220338176
+    m_Key: newPetitionEffectTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2939152456392704
+    m_Key: newPetitionEffectMessage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2939695887196160
+    m_Key: registerPetitionVoteResultTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2939757954506752
+    m_Key: positivePetitionVoteResultMessage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2939813017329664
+    m_Key: negativePetitionVoteResultMessage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2939834483777536
+    m_Key: yourPositivePetitionVoteResultMessage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2939876737196032
+    m_Key: yourNegativePetitionVoteResultMessage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2944819086925824
+    m_Key: gameEndedTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2944837743190016
+    m_Key: gameEndedMessage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2945205294243840
+    m_Key: nextDayTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2945222713188352
+    m_Key: nextDayMessage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2945638725230592
+    m_Key: criticalErrorTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2945910784565248
+    m_Key: backendConnectionError
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2945998227415040
+    m_Key: internetConnectionError
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2946027071643648
+    m_Key: warningTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2946040258535424
+    m_Key: noInputDeviceWarning
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2946910404648960
+    m_Key: exitTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2946928649871360
+    m_Key: exitMessage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2947128835612672
+    m_Key: yes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2947149513531392
+    m_Key: no
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2948183728234496
+    m_Key: onlyMasterClientError
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2949133968777216
+    m_Key: rejoinNotAvailableWarning
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2949334662029312
+    m_Key: photonConnectionError
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2949585305247744
+    m_Key: roomFullWarning
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2951358682144768
+    m_Key: keyAlreadyBoundWarning
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2955059341729792
+    m_Key: instanceNameMissingWarning
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2955231350136832
+    m_Key: instanceNameTooLongWarning
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2955233115938816
+    m_Key: instanceNameTooShortWarning
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2955234856574976
+    m_Key: playerNameMissingWarning
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2955924471455744
+    m_Key: playerNameTooLongWarning
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2955928401518592
+    m_Key: playerNameTooShortWarning
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2956744076206080
+    m_Key: couldNotCreateRoomError
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2956936129191936
+    m_Key: wrongMasterPasswordWarning
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2957131617312768
+    m_Key: instanceAlreadyExistsWarning
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2957551194513408
+    m_Key: successTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2957697550557184
+    m_Key: notAllowedTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2958313245024256
+    m_Key: inHospitalError
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2962068556390400
+    m_Key: alreadyLearnedWarning
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2962102526058496
+    m_Key: alreadyWorkedWarning
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2962480319602688
+    m_Key: learnTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2962939348426752
+    m_Key: learnMessage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2962980704264192
+    m_Key: learnSchoolFreeMessage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2963951203295232
+    m_Key: earnMoneyTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2964038037970944
+    m_Key: earnMoneyMessage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2964288056238080
+    m_Key: learnSuccessMessage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2964313352085504
+    m_Key: learnNotAllowedMessage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2964527769100288
+    m_Key: earnMoneySuccessMessage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2964563944972288
+    m_Key: earnMoneyNotAllowedMessage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2965070583341056
+    m_Key: graphsNotAvailableWarning
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2965186216108032
+    m_Key: graphsTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2965199994396672
+    m_Key: graphsMessage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2965594376413184
+    m_Key: globalFundsTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2965617403142144
+    m_Key: globalFundsMessage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2966532977762304
+    m_Key: numberMissingWarning
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2966586417389568
+    m_Key: numberPositiveWarning
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2966612422074368
+    m_Key: numberValidWarning
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2968301547986944
+    m_Key: sendMoneyTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2968362428309504
+    m_Key: sendMoneyMessage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2968530506653696
+    m_Key: send
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2968920799223808
+    m_Key: sendMoneySuccessMessage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2968969121800192
+    m_Key: sendMoneyNotAllowedMessage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2969705247318016
+    m_Key: selectOptionWarning
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2969894880190464
+    m_Key: investTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2969908805279744
+    m_Key: investMessage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2970137642311680
+    m_Key: invest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2970864360005632
+    m_Key: investIntoStocksMessage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2970918458138624
+    m_Key: investIntoVaccinationFundMessage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2971446416154624
+    m_Key: investIntoStocksSuccessMessage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2971467328954368
+    m_Key: investIntoStocksNotAllowedMessage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2971500564619264
+    m_Key: investIntoVaccinationFundSuccessMessage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2971516595249152
+    m_Key: investIntoVaccinationFundNotAllowedMessage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2971954946154496
+    m_Key: buyTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2971969244536832
+    m_Key: buyMessage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2972068297220096
+    m_Key: buy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2972735132835840
+    m_Key: buyDisinfectantMessage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2972777260425216
+    m_Key: buyHealthPointsMessage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2972778912980992
+    m_Key: buyHealthCheckMessage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2973575008657408
+    m_Key: buyDisinfectantSuccessMessage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2973591764901888
+    m_Key: buyDisinfectantNotAllowedMessage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2973599364980736
+    m_Key: buyHealthPointsSuccessMessage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2973705325682688
+    m_Key: buyHealthPointsNotAllowedMessage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2973746845097984
+    m_Key: buyHealthCheckInfectedMessage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2974434291523584
+    m_Key: buyHealthCheckNotInfectedMessage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2974947951157248
+    m_Key: relaxTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2974961511342080
+    m_Key: relaxMessage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2975099524915200
+    m_Key: relax
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2975330417156096
+    m_Key: relaxSuccessMessage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2975347240509440
+    m_Key: relaxNotAllowedMessage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2975654599106560
+    m_Key: alreadyBoughtCarePackageWarning
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2975995017207808
+    m_Key: lastDayCarePackageWarning
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2976489106219008
+    m_Key: buyCarePackageTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2976514716639232
+    m_Key: buyCarePackageMessage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2976938819493888
+    m_Key: buyCarePackageSuccessMessage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2976957626753024
+    m_Key: buyCarePackageNotAllowedMessage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2977301161222144
+    m_Key: getPetitionsTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2978201271443456
+    m_Key: petitionEffectIncomeTaxLevel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2978230577045504
+    m_Key: petitionEffectPropertyTaxLevel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2978288965951488
+    m_Key: petitionEffectHealthInsurance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2978311397089280
+    m_Key: petitionEffectSchoolCostFree
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2978339758972928
+    m_Key: petitionEffectLockdown
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2978355412115456
+    m_Key: petitionEffectMinimumWage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2978387938942976
+    m_Key: petitionEffectDisappropriation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2978415990448128
+    m_Key: petitionEffectSocialSafety
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2981305446473728
+    m_Key: voteTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2981323205156864
+    m_Key: voteMessage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2981546207911936
+    m_Key: vote
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2982185029771264
+    m_Key: voteSuccessMessage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2982466677284864
+    m_Key: petitionTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2982484087840768
+    m_Key: petitionMessage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2982661230075904
+    m_Key: register
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2982906001268736
+    m_Key: closePetitionTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2982983012884480
+    m_Key: closePetitionMessage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2983467983478784
+    m_Key: deletePetitionTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2983487201779712
+    m_Key: deletePetitionMessage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2983745960976384
+    m_Key: closePetitionSuccessMessage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2983761656061952
+    m_Key: closePetitionNotAllowedMessage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2983935921004544
+    m_Key: closePetitionSuccessWithEffectMessage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2983966866579456
+    m_Key: closePetitionSuccessWithoutEffectMessage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2984816745816064
+    m_Key: deletePetitionSuccessMessage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2984844784738304
+    m_Key: deletePetitionNotAllowedMessage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2985114340073472
+    m_Key: openPetitionSuccessMessage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2985132186836992
+    m_Key: openPetitionNotAllowedMessage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2985348533231616
+    m_Key: registerPetitionNotAllowedMessage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2985619984392192
+    m_Key: missingPetitionValueWarning
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2985712946946048
+    m_Key: missingPetitionNumberWarning
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2985812582637568
+    m_Key: minimumPetitionNumberWarning
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2985904572112896
+    m_Key: maximumPetitionNumberWarning
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2986384945750016
+    m_Key: anotherPlayerManagingPetitionsWarning
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2986422233112576
+    m_Key: playerManagingPetitionsWarning
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2987126385451008
+    m_Key: playersAlreadyVotedMessage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2987597678419968
+    m_Key: day
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3104720840990720
+    m_Key: DayTimeHUD/Canvas (Environment)/DayTimeHUD/DayText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3105154930483200
+    m_Key: currency
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3105964066250752
+    m_Key: healthStatusCritical
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3105994680475648
+    m_Key: healthStatusProblematic
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3106020076986368
+    m_Key: healthStatusGood
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3106525540950016
+    m_Key: menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3106529089331200
+    m_Key: help
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3108367104647168
+    m_Key: KeyBindingsOverviewHUD/Canvas (Environment)/KeyBindingsOverviewHUD/InteractText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3108411115479040
+    m_Key: KeyBindingsOverviewHUD/Canvas (Environment)/KeyBindingsOverviewHUD/OpenMapText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3108476760530944
+    m_Key: KeyBindingsOverviewHUD/Canvas (Environment)/KeyBindingsOverviewHUD/ToggleVoiceText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3108826187997184
+    m_Key: cannotHearYou
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3108895305932800
+    m_Key: canHearYou
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3108958275018752
+    m_Key: speaking
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3109245110886400
+    m_Key: city
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3109263301582848
+    m_Key: mall
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3109277117620224
+    m_Key: school
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3109286546415616
+    m_Key: townHall
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3109610225049600
+    m_Key: hospital
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3109632442277888
+    m_Key: office
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3109643930476544
+    m_Key: lounge
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3109655448035328
+    m_Key: marketSquare
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3109670102933504
+    m_Key: home
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3110175915024384
+    m_Key: MasterInRangeHUD/Canvas (Environment)/MasterInRangeHUD/TitleObject/MasterTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3110556845907968
+    m_Key: currencySymbol
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3111100700336128
+    m_Key: noItemAvailable
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3111859030499328
+    m_Key: openPetitionsTextStart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3111892563959808
+    m_Key: openPetitionsTextEnd
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3112606916845568
+    m_Key: OpenPetitionsHUD/Canvas (Environment)/OpenPetitionsHUD/TitleObject/PetitionsTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3113060027506688
+    m_Key: PlayerStatsHUD/Canvas (Environment)/PlayerStatsHUD/EndEveningButton/NeutralButton/Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3113086636171264
+    m_Key: PlayerStatsHUD/Canvas (Environment)/PlayerStatsHUD/OpenOpenPetitionsButton/Button/Text
+      (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3113143796146176
+    m_Key: PlayerStatsHUD/Canvas (Environment)/PlayerStatsHUD/OpenPetitionEffectsButton/Button/Text
+      (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3113218895159296
+    m_Key: PlayerStatsHUD/Canvas (Environment)/PlayerStatsHUD/OpenPlayerStatsButton/Button/Text
+      (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3113339150049280
+    m_Key: PlayerStatsHUD/Canvas (Environment)/PlayerStatsHUD/PlayerStatsContent/TitleRow/InfectionState
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3113363992911872
+    m_Key: PlayerStatsHUD/Canvas (Environment)/PlayerStatsHUD/PlayerStatsContent/TitleRow/StressLevel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3113385488719872
+    m_Key: PlayerStatsHUD/Canvas (Environment)/PlayerStatsHUD/PlayerStatsContent/TitleRow/LearningRate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3113441965023232
+    m_Key: PlayerStatsHUD/Canvas (Environment)/PlayerStatsHUD/PlayerStatsContent/TitleRow/EducationLevel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3113467365728256
+    m_Key: PlayerStatsHUD/Canvas (Environment)/PlayerStatsHUD/PlayerStatsContent/TitleRow/HeylthPoints
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3113484000337920
+    m_Key: PlayerStatsHUD/Canvas (Environment)/PlayerStatsHUD/PlayerStatsContent/TitleRow/MoneyUnits
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3113522453716992
+    m_Key: PlayerStatsHUD/Canvas (Environment)/PlayerStatsHUD/PlayerStatsContent/TitleRow/Player
+      Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3113623645495296
+    m_Key: PlayerStatsHUD/Canvas (Environment)/PlayerStatsHUD/PetitionEffectsContent/PetitionEffectsTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3113656549810176
+    m_Key: PlayerStatsHUD/Canvas (Environment)/PlayerStatsHUD/OpenPetitionsContent/OpenPetitionsTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3119147149598720
+    m_Key: numberYesVotes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3119165298352128
+    m_Key: numberNoVotes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3119822927470592
+    m_Key: unknownPlayer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3120883067166720
+    m_Key: noInputDeviceAvailable
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3121047211253760
+    m_Key: moveForward
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3121148524666880
+    m_Key: moveLeft
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3121213402161152
+    m_Key: moveRight
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3121298445869056
+    m_Key: moveBackward
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3121796456554496
+    m_Key: interact
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3121841335607296
+    m_Key: toggleVoice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3121904736706560
+    m_Key: openMap
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3121958067281920
+    m_Key: confirmDialog
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3122028942630912
+    m_Key: cancelDialog
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3122077307150336
+    m_Key: callForHelp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3122150690693120
+    m_Key: toggleMenu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3122399110930432
+    m_Key: toggleGlobalVoice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3122474490961920
+    m_Key: toggleStats
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3122490429317120
+    m_Key: sprint
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3123046875045888
+    m_Key: windowed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3123067334860800
+    m_Key: maximizedWindowed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3123087144558592
+    m_Key: exclusiveFullScreen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3123112599789568
+    m_Key: fullScreenWindow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3216271358992384
+    m_Key: LoginDialog/Canvas (Environment)/LoginDialog/PasswordInputFieldText/Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3216299335000064
+    m_Key: LoginDialog/Canvas (Environment)/LoginDialog/NameInputFieldText/Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3221413911240704
+    m_Key: disinfectant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3221424225034240
+    m_Key: healthPoints
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3221440876421120
+    m_Key: healthCheck
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3221899909439488
+    m_Key: vaccinationFund
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3222001164132352
+    m_Key: stocks
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3223333312831488
+    m_Key: interactableActiveWarning
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3223461549481984
+    m_Key: buyInteractableActive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3223540809244672
+    m_Key: investInteractableActive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3223562799980544
+    m_Key: sendMoneyInteractableActive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3223586241945600
+    m_Key: earnMoneyInteractableActive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3223621700591616
+    m_Key: learnInteractableActive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3223644031066112
+    m_Key: voteInteractableActive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3223996830752768
+    m_Key: relaxInteractableActive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3224020255940608
+    m_Key: petitionInteractableActive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3224991203762176
+    m_Key: enterTownHallInteractableActive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3225038293213184
+    m_Key: enterMallInteractableActive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3225057524097024
+    m_Key: enterSchoolInteractableActive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3225077862277120
+    m_Key: enterOfficeInteractableActive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3225095000203264
+    m_Key: enterLoungeInteractableActive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3225110699483136
+    m_Key: enterHospitalInteractableActive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3225981848035328
+    m_Key: exitTownHallInteractableActive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3226015566045184
+    m_Key: exitHospitalInteractableActive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3227406342725632
+    m_Key: EveningActivityDialog/Canvas (Environment)/EveningActivityDialog/TitleText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3227446444466176
+    m_Key: EveningActivityDialog/Canvas (Environment)/EveningActivityDialog/MessageText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3227496318935040
+    m_Key: EveningActivityDialog/Canvas (Environment)/EveningActivityDialog/TimerText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3227576593719296
+    m_Key: cooldownText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3228451911409664
+    m_Key: doNotRegister
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3228784175783936
+    m_Key: RegisterPetitionDialog/Canvas (Environment)/RegisterPetitionDialog/TitleText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3228855747387392
+    m_Key: RegisterPetitionDialog/Canvas (Environment)/RegisterPetitionDialog/MessageText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3228892917309440
+    m_Key: RegisterPetitionDialog/Canvas (Environment)/RegisterPetitionDialog/TimerText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3268142383669248
+    m_Key: KeyLeftShift
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3268289196892160
+    m_Key: KeyRightShift
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3268338194751488
+    m_Key: KeyLeftCtrl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3268431106973696
+    m_Key: KeyRightCtrl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3268532500078592
+    m_Key: KeyLeftAlt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3268563437264896
+    m_Key: KeyRightAlt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3269947461115904
+    m_Key: KeyPageUp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3270030432837632
+    m_Key: KeyPageDown
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3270690448515072
+    m_Key: KeyLeftWindows
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3270703211782144
+    m_Key: KeyRightWindows
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3270720022552576
+    m_Key: KeyLeftCommand
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3270729132580864
+    m_Key: KeyRightCommand
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3275715979681792
+    m_Key: KeyReturn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3276020951719936
+    m_Key: KeyNumlock
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3276118460899328
+    m_Key: KeyBackspace
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3276231660969984
+    m_Key: KeyKeypadEnter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3293260434546688
+    m_Key: ClosedPetitionItem/Canvas (Environment)/ClosedPetitionItem/ClosedPetitionItem/PetitionTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3293601993498624
+    m_Key: OpenPetitionItem/Canvas (Environment)/OpenPetitionItem/ClosedPetitionItem/PetitionTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3293870936465408
+    m_Key: TemplateItem/Canvas (Environment)/TemplateItem/TemplateTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3294799458902016
+    m_Key: PetitionDialog/Canvas (Environment)/PetitionDialog/PetitionTemplate/IntPetitionTemplate/ValueText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3295062206881792
+    m_Key: PetitionDialog/Canvas (Environment)/PetitionDialog/PetitionTemplate/OpenButton/Button/Text
+      (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3295094150701056
+    m_Key: PetitionDialog/Canvas (Environment)/PetitionDialog/PetitionTemplate/BackToTemplateButton/NegativeButton/Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3295180909879296
+    m_Key: PetitionDialog/Canvas (Environment)/PetitionDialog/TemplateList/BackToListButton/NegativeButton/Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3295257485287424
+    m_Key: PetitionDialog/Canvas (Environment)/PetitionDialog/TemplateList/MessageText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3295672801075200
+    m_Key: VoteDialog/Canvas (Environment)/VoteDialog/VoteOnPetitionContent/BackButton/NeutralButton/Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3295707617992704
+    m_Key: VoteDialog/Canvas (Environment)/VoteDialog/VoteOnPetitionContent/VoteYesButton/Button/Text
+      (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3295727570296832
+    m_Key: VoteDialog/Canvas (Environment)/VoteDialog/VoteOnPetitionContent/VoteNoButton/NegativeButton/Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3295784889655296
+    m_Key: VoteDialog/Canvas (Environment)/VoteDialog/VoteOnPetitionContent/MessageText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3296254668480512
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/OverviewButton/NeutralButton/Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3296272662044672
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/StationsButton/NeutralButton/Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3296293813919744
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/PetitionsButton/NeutralButton/Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3296326898589696
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/AttributesButton/NeutralButton/Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3296349795295232
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/SettingsButton/NeutralButton/Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3296433861730304
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/OverviewContent/DayNightButton/Button/Text
+      (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3296456875876352
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/OverviewContent/MapButton/Button/Text
+      (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3296566158467072
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/OverviewContent/DayNightContent/GeneralText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3296655132237824
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/OverviewContent/DayNightContent/DaylightTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3296673310351360
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/OverviewContent/DayNightContent/EveningTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3296730453549056
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/OverviewContent/DayNightContent/DaylightText1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3296823911030784
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/OverviewContent/DayNightContent/DaylightText2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3297262362599424
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/OverviewContent/DayNightContent/DaylightText3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3297517913153536
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/OverviewContent/DayNightContent/EveningText1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3297546778353664
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/OverviewContent/DayNightContent/EveningText2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3298090112688128
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/StationsContent/HomeContent/StationTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3298396309463040
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/StationsContent/HomeContent/StationText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3298455071662080
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/StationsContent/HomeContent/HelpDeskText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3298510813962240
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/StationsContent/HospitalContent/StationTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3298706604072960
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/StationsContent/HospitalContent/StationText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3299091154640896
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/StationsContent/HospitalContent/CarePackageTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3299125967364096
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/StationsContent/HospitalContent/CarePackageText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3299237246443520
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/StationsContent/LoungeContent/StationText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3299276500934656
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/StationsContent/LoungeContent/HelpDeskTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3299326283128832
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/StationsContent/LoungeContent/HelpDeskText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3299675081449472
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/StationsContent/MallContent/StationTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3299712255565824
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/StationsContent/MallContent/StationText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3299757109452800
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/StationsContent/MallContent/BuyTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3299785345507328
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/StationsContent/MallContent/InvestTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3299891293626368
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/StationsContent/MallContent/BuyText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3300064371580928
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/StationsContent/MallContent/InvestText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3300109904945152
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/StationsContent/MallContent/SendMoneyTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3300143258050560
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/StationsContent/MallContent/SendMoneyText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3300203534393344
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/StationsContent/MarketSquareContent/StationTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3300236266741760
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/StationsContent/MarketSquareContent/StationText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3300263865262080
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/StationsContent/MarketSquareContent/FundsTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3300296144625664
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/StationsContent/MarketSquareContent/FundsText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3300348644728832
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/StationsContent/MarketSquareContent/GraphsTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3300382866055168
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/StationsContent/MarketSquareContent/GraphsText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3300479045640192
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/StationsContent/OfficeContent/StationTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3300492928786432
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/StationsContent/OfficeContent/EarnMoneyTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3300540907429888
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/StationsContent/OfficeContent/EarnMoneyText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3300638517272576
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/StationsContent/SchoolContent/StationTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3300652257812480
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/StationsContent/SchoolContent/LearnTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3300681794101248
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/StationsContent/SchoolContent/LearnText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3300750152867840
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/StationsContent/TownHallContent/StationTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3300787326984192
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/StationsContent/TownHallContent/StationText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3300950690930688
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/StationsContent/TownHallContent/PetitionsTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3300993980342272
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/StationsContent/TownHallContent/PetitionsText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3301025471176704
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/StationsContent/TownHallContent/VotesTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3301059264684032
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/StationsContent/TownHallContent/VotesText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3301106014396416
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/StationsContent/TownHallContent/EffectsTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3301145310830592
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/StationsContent/TownHallContent/EffectsText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3301296989446144
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/PetitionsContent/PetitionsScrollView/Viewport/Content/PetitionTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3301335262470144
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/PetitionsContent/PetitionsScrollView/Viewport/Content/PetitionText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3301404401377280
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/PetitionsContent/PetitionsScrollView/Viewport/Content/PetitionTitle
+      (1)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3301449003606016
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/PetitionsContent/PetitionsScrollView/Viewport/Content/PetitionText
+      (1)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3301544801509376
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/PetitionsContent/PetitionsScrollView/Viewport/Content/PetitionText
+      (2)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3301566020493312
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/PetitionsContent/PetitionsScrollView/Viewport/Content/PetitionTitle
+      (3)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3301600048881664
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/PetitionsContent/PetitionsScrollView/Viewport/Content/PetitionText
+      (3)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3301631048982528
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/PetitionsContent/PetitionsScrollView/Viewport/Content/PetitionTitle
+      (4)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3301660979535872
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/PetitionsContent/PetitionsScrollView/Viewport/Content/PetitionText
+      (4)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3301722992320512
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/PetitionsContent/PetitionsScrollView/Viewport/Content/PetitionTitle
+      (5)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3301768731205632
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/PetitionsContent/PetitionsScrollView/Viewport/Content/PetitionText
+      (5)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3301829481504768
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/PetitionsContent/PetitionsScrollView/Viewport/Content/PetitionTitle
+      (6)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3301944871002112
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/PetitionsContent/PetitionsScrollView/Viewport/Content/PetitionText
+      (6)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3302183300407296
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/AttributesContent/MUContent/Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3302224790462464
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/AttributesContent/MUContent/Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3302323985752064
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/AttributesContent/HPContent/Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3302346156843008
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/AttributesContent/HPContent/Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3302604563718144
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/AttributesContent/ISContent/Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3302646234128384
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/AttributesContent/ISContent/Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3302782976827392
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/AttributesContent/SLContent/Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3302810202054656
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/AttributesContent/SLContent/Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3302917886615552
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/AttributesContent/LSContent/Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3302947334823936
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/AttributesContent/LSContent/Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3303072715153408
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/AttributesContent/ELContent/Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3303102100447232
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/AttributesContent/ELContent/Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3303282778480640
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/SettingsContent/CharacterSettingsContent/Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3303312897777664
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/SettingsContent/CharacterSettingsContent/Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3303370003226624
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/SettingsContent/GeneralSettingsContent/Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3303400286101504
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/SettingsContent/GeneralSettingsContent/Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3303453029474304
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/SettingsContent/KeyBindingsContent/Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3303486541963264
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/SettingsContent/KeyBindingsContent/Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3303543970373632
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/SettingsContent/VolumeSettingsContent/Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3303574412632064
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/SettingsContent/VolumeSettingsContent/Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3304249137733632
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/AttributesContent/MUButton/Button/Text
+      (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3304280171388928
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/AttributesContent/HPButton/Button/Text
+      (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3304299582627840
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/AttributesContent/ISButton/Button/Text
+      (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3304322680659968
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/AttributesContent/SLButton/Button/Text
+      (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3304341018157056
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/AttributesContent/LSButton/Button/Text
+      (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3304359779278848
+    m_Key: HelpDeskDialog/Canvas (Environment)/HelpDeskDialog/AttributesContent/ELButton/Button/Text
+      (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3925864287703040
+    m_Key: First-Person/GlobalCanvas/MainMenu/SettingsMenu/Content/SliderInputField/Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6728348564365312
+    m_Key: effectsOpenPetitionsHighlighted
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8713638304718848
+    m_Key: colorBlack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8713640355733504
+    m_Key: colorWhite
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8713641840517120
+    m_Key: colorGrey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8713703471620096
+    m_Key: colorYellow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8713704759271424
+    m_Key: colorOrange
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8713706248249344
+    m_Key: colorRed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8713707741421568
+    m_Key: colorGreen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8713709234593792
+    m_Key: colorBlue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8713710857789440
+    m_Key: colorPurple
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8713712971718656
+    m_Key: colorVeryLight
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8713714456502272
+    m_Key: colorLight
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8713715907731456
+    m_Key: colorMedium
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8713717312823296
+    m_Key: colorDark
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8713718965379072
+    m_Key: colorVeryDark
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8713875610050560
+    m_Key: colorBrown
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8713876897701888
+    m_Key: colorBlonde
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8713878164381696
+    m_Key: colorDarkBlonde
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8714565568864256
+    m_Key: bodyMale
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8714567175282688
+    m_Key: bodyFemale
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16214593597476864
+    m_Key: First-Person/GlobalCanvas/MainMenu/GeneralMenu/NoInstanceAvailableText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20853676990926848
+    m_Key: insufficientMoneyError
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32300968415465472
+    m_Key: relax1SuccessMessage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32301178327797760
+    m_Key: relax2SuccessMessage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32301347773485056
+    m_Key: relax3SuccessMessage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32301576774094848
+    m_Key: relax4SuccessMessage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32301965359583232
+    m_Key: petitionEffectStockIncomeTaxExempt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32301975627239424
+    m_Key: petitionEffectTaxRevenueForVaccine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32302047563747328
+    m_Key: petitionEffectHappierPlayers
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32302089540341760
+    m_Key: petitionEffectTownHallAllowance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32302150257086464
+    m_Key: PlayerStatsHUD/Canvas (Environment)/PlayerStatsHUD/PlayerStatsContent/TitleRow/IsInfected
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32302211997241344
+    m_Key: "PlayerStatsHUD/Canvas (Environment)/PlayerStatsHUD/OpenOtherStatsButton/Button/Text\n     
+      (TMP)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32302326182973440
+    m_Key: PlayerStatsHUD/Canvas (Environment)/PlayerStatsHUD/OtherStatsContent/OtherStatsTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32567961160912896
+    m_Key: PlayerStatsHUD_new/Canvas (Environment)/PlayerStatsHUD_new/OpenOtherStatsButton/Button/Text
+      (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32568563970478080
+    m_Key: PlayerStatsHUD_new/Canvas (Environment)/PlayerStatsHUD_new/OtherStatsContent/OtherStatsTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32593688967122944
+    m_Key: PlayerStatsHUD_new/Canvas (Environment)/PlayerStatsHUD_new/PlayerStatsContent/TitleRow/IsInfected
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1654541687322

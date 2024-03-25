@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0db29d9cf09fae468310f803312e786, type: 3}
+  m_Name: DefaultControlSettings
+  m_EditorClassIdentifier: 
+  primaryForward: 119
+  secondaryForward: 273
+  primaryLeft: 97
+  secondaryLeft: 276
+  primaryBackward: 115
+  secondaryBackward: 274
+  primaryRight: 100
+  secondaryRight: 275
+  interact: 102
+  confirmDialog: 13
+  cancelDialog: 99
+  toggleMenu: 27
+  toggleVoice: 116
+  openMap: 109
+  callForHelp: 104
+  sprint: 304
+  pushToTalkGlobal: 122
+  toggleStats: 9
+  jump: 32

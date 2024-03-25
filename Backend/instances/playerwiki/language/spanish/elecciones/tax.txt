@@ -1,0 +1,4 @@
+• Modificar el tipo del impuesto sobre la rentaCambiar el tipo impositivo de la propiedad
+• Inicialmente no hay impuestos. 
+    Los impuestos pueden introducirse para pagar la seguridad social, la matrícula escolar o el seguro médico. El fondo de impuestos se llena con el impuesto sobre la renta y la propiedad. Si después de una ronda no se recaudan suficientes impuestos, el déficit se divide entre todos los jugadores.
+

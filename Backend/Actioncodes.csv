@@ -1,0 +1,76 @@
+Actioncode Handler:;/includes/ACHandler.php;;;;;;;;
+;;;;;;;;;
+;POST;;;;;Return;Error;implemented;Issue
+;Action code;inst;value1;value2;value3;Value1;;;
+The Mall;;;;;;;;;
+visit;m01;(string);ID;;;bool;1,7;x;#62
+exit;m99;(string);ID;;;;;;
+Buy Disinfectant;m03;(string);ID;;;bool (success / no success);1,2;x;#68
+Buy Health Points;m04;(string);ID;;;bool (success / no success);1,2;x;#37
+Buy Health Check;m05;(string);ID;;;JSON array (see appendix);1,2;x;#40
+Invest into Vaccine Fund;m06;(string);ID;MU;;bool (success / no success);1,2;x;#30
+Invest into Stock Fund;m07;(string);ID;MU;;bool (success / no success);1,2;x;#29
+Send Money to User;m08;(string);ID (Sender);ID (Receiver);MU;bool (success / no success);1,2;x;#27
+;;;;;;;;;
+The Office;;(string);;;;;;;
+visit;o01;(string);ID;;;bool;1,7;x;#74, 
+earn money;o02;(string);ID;;;int/false;1,3;x;#1, 
+exit;o99;(string);ID;;;;;;
+;;;;;;;;;
+The School;;;;;;;;;
+visit;s01;(string);ID;;;bool;1,7;x;#76
+learn;s02;(string);ID;;;bool;1,2,3;x;#3
+exit;s99;(string);ID;;;;;;
+;;;;;;;;;
+The Lounge;;;;;;;;;
+visit;l01;(string);ID;;;bool;1,7,8;x;#41
+relax;l02;(string);ID;;;bool;1;x;#51
+exit;l99;(string);ID;;;;;;
+;;;;;;;;;
+The Townhall;;;;;;;;;
+visit;t01;(string);ID;;;;;;#64
+exit;t99;(string);ID;;;;;;
+;;;;;;;;;
+Abstimmungen;;;;;;;;;
+List all vote templates;votetemp;(string);;;;JSON array;;x;#78
+Vote;vote;(string);ID;VoteId;vote(yes/no);;1;x;#21
+Close a vote;closevote;(string);VoteId;;;;1;x;#22
+Open a vote;openvote;(string);VoteId;;;;1;x;#20
+Register a new vote;votedev;(string);JSON array;;;;1,9;x;#79
+Give a list of all open votes;listopenvote;(string);;;;JSON array;;x;#80
+Delete a vote;delvote;(string);voteid;;;bool;;;
+;;;;;;;;;
+The Hospital;;;;;;;;;
+visit;h01;(string);ID;;;bool (insurance: yes / no);;;
+exit;h99;(string);ID;;;;;;#54
+Buy Care Package;h02;(string);ID;;;bool (success / no success);;;
+;;;;;;;;;
+The Marketsquare;;;;;;;;;
+visit;sq01;(string);ID;;;;;;
+request general info;sq02;(string);;;;string (adress);;;
+request personal info;sq03;(string);ID;;;string (adress);;;
+exit;sq99;(string);ID;;;;;;
+;;;;;;;;;
+Home;;;;;;;;;
+visit;q01;(string);ID;;;;;;
+exit;q99;(string);ID;;;;;;
+;;;;;;;;;
+Miscellaneous;;;;;;;;;
+register;reg;(string);ID;Name (string);;bool (success / no success);4,5;x;#14
+initialize;init;(string);;;;bool (success / no success);;x;#84
+Get player property;ask;(string);ID;prop (str) (mu,hp,ed,sl,ls,inf);;int;1;x;#28, #39, #72, #73, #65
+Get global fund;askf;(string);fund (str) (vac, stocks, taxamount);;;int;1;x;#35, 
+Get all global funds;askgf;(string);;;;JSON array;;;
+next round;nr;(string);;;;int;6;x;#82
+create instance;ci;;str;;;bool;;x;#83
+list all instances;li;;;;;JSON array;;x;#85
+get the log;getlog;(string);;;;string;;;
+get playerdatabase;getplayer;(string);;;;JSON array;;;
+get gamedatabase;getgame;(string);;;;JSON array;;;
+get health status;askhlt;(string);ID;;;int (2 - good, 1 - problematic, 0 - critical);;;
+get scale ;getscale;(string);No.;;;int;;;
+player in hospital;inhospital;(string);ID;;;int (2,1,0 - days player remains in hospital);;;
+get graphs;getinfon;(string);int;;;URL (string);10;;
+list all registered petitions;listvote;(string);;;;JSON array;;;
+Master password check;pwcheck;(string);string (password);;;true/false;;;
+edit the banderole;banderole;(string);string (displayed text);;;true/false;;;

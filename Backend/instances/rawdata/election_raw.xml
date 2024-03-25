@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<root>
+    <temp>
+        <vote>
+            <text>Should school attendance be free and funded through taxes?</text>
+            <textb>Should school attendance be funded by everyone individually?</textb>
+            <scale>13</scale>
+            <valuetype>bool</valuetype>
+        </vote>
+        <vote>
+            <text>Should the game go into lockdown (lounge be closed)?</text>
+            <textb>Should the lockdown be lifted (lounge be opened again)?</textb>
+            <scale>14</scale>
+            <valuetype>bool</valuetype>
+
+        </vote>
+        <vote>
+            <text>Should the income tax be changed to x%? </text>
+            <scale>10</scale>
+            <valuetype>int</valuetype>
+        </vote>
+        <vote>
+            <text>Should the property tax be changed to x%? </text>
+            <scale>11</scale>
+            <valuetype>int</valuetype>
+        </vote>        
+        <vote>
+            <text>Should a minimum wage of x MU be introduced?</text>
+            <scale>15</scale>
+            <valuetype>int</valuetype>
+        </vote>
+        <vote>
+            <text>Should every unit of money from all players who have more than 50 go into the vaccination fund?</text>
+            <textb>Should earnings be unrestricted again?</textb>
+            <scale>16</scale>
+            <valuetype>bool</valuetype>
+        </vote>    
+        <vote>
+            <text>Should health insurance be introduced?</text>
+            <textb>Should health insurance be abolished?</textb>
+            <scale>12</scale>
+            <valuetype>bool</valuetype>
+        </vote>
+        <vote>
+            <text>Should social welfare be introduced?</text>
+            <textb>Should social welfare be abolished?</textb>
+            <scale>17</scale>
+            <valuetype>bool</valuetype>
+        </vote>
+    </temp>
+    <dev>
+        
+    </dev>                    
+</root>

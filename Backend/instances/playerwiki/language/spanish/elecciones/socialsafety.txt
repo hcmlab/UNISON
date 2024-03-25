@@ -1,0 +1,2 @@
+Introducir la seguridad social
+Si se introduce la seguridad social, los jugadores que tienen una cantidad negativa de UM al final de una ronda reciben automáticamente 10 UM. Esto se paga con el fondo de impuestos, o si el fondo de impuestos no está activo, por todos los jugadores por igual.

@@ -1,0 +1,3 @@
+Introducir el seguro de enfermedad
+Si se introduce el seguro de enfermedad, el paquete asistencial se adquiere automáticamente, y los costes se distribuirán entre todos los actores por igual. Si los impuestos están activos, el paquete asistencial se financiará a través de los impuestos.
+

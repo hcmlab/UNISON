@@ -1,0 +1,3 @@
+During a town hall meeting the present players can design a petition. They can choose the topic of the petition and switch on or off an attribute or set the scale to a certain value.
+These petitions follow one of eight basic patters
+

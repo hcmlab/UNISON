@@ -1,0 +1,5 @@
+The hospital
+
+If a player runs out of HP, they are transferred to the hospital, where a two-round-stay cures the infection. When trying to register at a station, a pop-up on the monitor’s screen will indicate that the player needs to be in hospital. After a full stay in hospital, players start with a small amount of HP and not infected.
+For 10 MU one can buy a care package, which reduces the stay to one round. The health- insurance automatically purchases this package.
+

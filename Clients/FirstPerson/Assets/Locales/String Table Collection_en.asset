@@ -1,0 +1,2054 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: String Table Collection_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: f41771362c58ee845b203c476710c350, type: 2}
+  m_Metadata:
+    m_Items:
+    - id: 0
+  m_TableData:
+  - m_Id: 2109984120832
+    m_Localized: Host
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2204792168448
+    m_Localized: Join
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2324631822336
+    m_Localized: Leave
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2685115473920
+    m_Localized: Lobby
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3032823275520
+    m_Localized: Player Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3288977809408
+    m_Localized: There is no instance available at the moment.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3391566290944
+    m_Localized: Rejoin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3553755832320
+    m_Localized: Please enter the password to confirm that you are allowed to host
+      games.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3628905177088
+    m_Localized: 'Password:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3731325886464
+    m_Localized: Login
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3893746114560
+    m_Localized: Create Session
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4013006954496
+    m_Localized: Instance Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4100235894784
+    m_Localized: Lobby Size
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4250022879232
+    m_Localized: Day Duration
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4360668618752
+    m_Localized: Relax Cooldown
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4676596178944
+    m_Localized: Please wait for the master client to start the game.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4764475236352
+    m_Localized: Start (0/16)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4880258998272
+    m_Localized: Reset
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5254533521408
+    m_Localized: Volume of Effects
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5685213044736
+    m_Localized: Volume of Ambience
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6087887200256
+    m_Localized: Volume of Voice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6220565618688
+    m_Localized: Voice Threshold
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6487075889152
+    m_Localized: Input Device
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6559758983168
+    m_Localized: Reset
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6820627914752
+    m_Localized: 'Possible Triggers:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6903306035200
+    m_Localized: Hospital Sound
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6974797946880
+    m_Localized: Syringes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7036659736576
+    m_Localized: 'HUD Elements:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7163461935104
+    m_Localized: Key Bindings Overview
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7450151002112
+    m_Localized: Minimap
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7506648276992
+    m_Localized: 'Miscellaneous:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7536809517056
+    m_Localized: Full Screen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7725418979328
+    m_Localized: Randomize
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7804661964800
+    m_Localized: Body
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7833879486464
+    m_Localized: Hair Color
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7855002001408
+    m_Localized: Skin Color
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7901462306816
+    m_Localized: Mask Color
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7964993429504
+    m_Localized: Shirt Color
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8009985728512
+    m_Localized: Trouser Color
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8041065521152
+    m_Localized: Shoe Color
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8926671839232
+    m_Localized: Button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11978007027712
+    m_Localized: 'Language
+
+      Selection'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2921358230724608
+    m_Localized: Please login. (You can press the tab key to switch directly from
+      the name field to the password field.)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2921354585874432
+    m_Localized: Login
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2921612925640704
+    m_Localized: Login
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2921657594978304
+    m_Localized: Cancel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2921743427215360
+    m_Localized: Please add your player name!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2921767364108288
+    m_Localized: Please add your password!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2922130456616960
+    m_Localized: Wrong player name or password!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2922309335293952
+    m_Localized: There is a problem with the backend server!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2922470224601088
+    m_Localized: Please contact the administrator.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2923308112322560
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2923398663151616
+    m_Localized: Close
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2925824325623808
+    m_Localized: Ok
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2925784085471232
+    m_Localized: The day has ended. You can now talk with the players about their
+      experiences. Press okay to initiate the next round.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2925766461005824
+    m_Localized: Day has ended
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2926924407676928
+    m_Localized: Call for help
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2926951821647872
+    m_Localized: Are you sure you want to call the administrator for help?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2927630468423680
+    m_Localized: New Day
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2927757862019072
+    m_Localized: You were not feeling well and were therefore transported to the
+      hospital. You are suspended for two days. You can buy a care package to shorten
+      your stay to just one day.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2927919506300928
+    m_Localized: You are (still) not feeling well and are suspended for one day.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2928028658868224
+    m_Localized: You have successfully recovered and have been released from the
+      hospital.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2928367772540928
+    m_Localized: The day has ended. You can now talk with the administrator about
+      your experiences. They will start the next round eventually.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2929141583880192
+    m_Localized: There {0:plural:are no petitions|is an open petition|are {} open
+      petitions} you have not voted on.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2931605183832064
+    m_Localized: A new day has begun.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2931957404704768
+    m_Localized: Congratulations!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2932041659883520
+    m_Localized: Congratulations! You have finished the game.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2932142193156096
+    m_Localized: Lobby was closed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2932143921209344
+    m_Localized: The master client has left the lobby. The lobby was closed because
+      of this.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2932461656514560
+    m_Localized: Disconnected
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2932463275515904
+    m_Localized: You have been disconnected from the game.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2939124220338176
+    m_Localized: New Petition Effect
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2939152456392704
+    m_Localized: Because the majority voted in favour of the following petition,
+      it is now taking effect.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2939757954506752
+    m_Localized: The result of the vote whether to register the petition was positive
+      and the petition will be registered.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2939834483777536
+    m_Localized: The result of the vote whether to register your petition was positive
+      and your petition will be registered.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2939876737196032
+    m_Localized: The result of the vote whether to register your petition as negative
+      and your petition will not be registered.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2939813017329664
+    m_Localized: The result of the vote whether to register the petition as negative
+      and the petition will not be registered.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2939695887196160
+    m_Localized: 'Vote Result: Register Petition'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2944819086925824
+    m_Localized: Vaccine was discovered!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2944837743190016
+    m_Localized: Congratulations! A vaccine has been discovered! You have successfully
+      finished the game. You can now talk with the others about your experiences.
+      Click ok to leave the game.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2945222713188352
+    m_Localized: The next day is being prepared...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2945205294243840
+    m_Localized: Please wait
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2945638725230592
+    m_Localized: Critical Error
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2945910784565248
+    m_Localized: The client cannot connect to the backend server!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2945998227415040
+    m_Localized: The client cannot connect to the internet!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2946040258535424
+    m_Localized: There is no input device selected. As the voice chat is a key feature
+      of the game, it is recommended to use a microphone.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2946027071643648
+    m_Localized: Warning
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2946910404648960
+    m_Localized: Exit Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2946928649871360
+    m_Localized: Are your sure that you want to exit the game?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2947128835612672
+    m_Localized: Yes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2947149513531392
+    m_Localized: No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2948183728234496
+    m_Localized: Only the master client can start the game!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2949133968777216
+    m_Localized: Rejoin is currently not available!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2949334662029312
+    m_Localized: The client cannot connect to the Photon network
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2949585305247744
+    m_Localized: The room is already full.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2951358682144768
+    m_Localized: The key {} is already bound to the {} action.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2955059341729792
+    m_Localized: Please enter an instance name first!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2955231350136832
+    m_Localized: The instance name is too long! Maximum allowed length is {} characters.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2955233115938816
+    m_Localized: The instance name is too short! Minimum allowed length is {} characters.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2955234856574976
+    m_Localized: Please enter your player name first!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2955924471455744
+    m_Localized: Your player name is too long! Maximum allowed length is {} characters.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2955928401518592
+    m_Localized: Your player name is too short! Minimum allowed length is {} characters.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2956744076206080
+    m_Localized: The PUN room could not be created, either because you could not
+      connect or a room with this name already exists.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2956936129191936
+    m_Localized: Incorrect master password!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2957131617312768
+    m_Localized: A instance with this name already exists. Please choose a different
+      one!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2957551194513408
+    m_Localized: Success!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2957697550557184
+    m_Localized: Not allowed right now
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2958313245024256
+    m_Localized: You should not be in the hospital right now!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2962068556390400
+    m_Localized: You have already learned today. You can only either learn or work
+      once a day.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2962102526058496
+    m_Localized: You have already worked today. You can only either learn or work
+      once a day.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2962480319602688
+    m_Localized: Learn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2962939348426752
+    m_Localized: Do you want to learn? It will cost you {} money units.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2962980704264192
+    m_Localized: Do you want to learn? It would cost you {} money units, but currently
+      school attendance is free and funded through taxes.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2963951203295232
+    m_Localized: Earn money units
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2964038037970944
+    m_Localized: Do you want to work to earn money?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2964288056238080
+    m_Localized: You successfully learned. Do you already feel smarter?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2964313352085504
+    m_Localized: You are not allowed to learn right now.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2964563944972288
+    m_Localized: You are not allowed to work right now.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2964527769100288
+    m_Localized: You successfully earned {} money units.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2965070583341056
+    m_Localized: Graphs are not yet available! Please come back later.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2965186216108032
+    m_Localized: Graphs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2965199994396672
+    m_Localized: 'All currently available graphs:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2965594376413184
+    m_Localized: Global Funds
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2965617403142144
+    m_Localized: 'Vaccination fund: {0} money units
+
+      Stocks: {1} money units
+
+      Tax
+      amount: {2} money units'
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2966532977762304
+    m_Localized: Please enter a number.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2966586417389568
+    m_Localized: Please enter a positive number.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2966612422074368
+    m_Localized: Please enter a valid number.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2968301547986944
+    m_Localized: Send Money
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2968362428309504
+    m_Localized: Do you want to send money to another player?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2968530506653696
+    m_Localized: Send
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2968969121800192
+    m_Localized: You are not allowed to send money to other players right now.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2968920799223808
+    m_Localized: You successfully sent {} money units to {}.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2969705247318016
+    m_Localized: Please select an option first.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2969894880190464
+    m_Localized: Invest into Fund
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2969908805279744
+    m_Localized: Do you want to invest into a fund?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2970137642311680
+    m_Localized: Invest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2970864360005632
+    m_Localized: Do you want to invest into stocks? The current value is {} money
+      units.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2970918458138624
+    m_Localized: Do you want to invest into the vaccination fund? The current value
+      is {} money units.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2971500564619264
+    m_Localized: You successfully invested into the vaccination fund.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2971516595249152
+    m_Localized: You are not allowed to invest into the vaccination fund right now.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2971446416154624
+    m_Localized: You successfully invested into stocks.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2971467328954368
+    m_Localized: You are not allowed to invest into stocks right now.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2971954946154496
+    m_Localized: Buy Products
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2971969244536832
+    m_Localized: Do you want to buy something?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2972068297220096
+    m_Localized: Buy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2972735132835840
+    m_Localized: Do you want to buy disinfectant for {} money units?
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2972777260425216
+    m_Localized: Do you want to buy health points for {} money units?
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2972778912980992
+    m_Localized: Do you want to buy a health check for {} money units?
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2973575008657408
+    m_Localized: You successfully bought disinfectant.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2973591764901888
+    m_Localized: You are not allowed to buy disinfectant right now.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2973599364980736
+    m_Localized: You successfully bought health points.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2973705325682688
+    m_Localized: You are not allowed to buy health points right now.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2973746845097984
+    m_Localized: '{} health points
+
+      Stress level of {}
+
+      You are infected'
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2974434291523584
+    m_Localized: '{} health points
+
+      Stress level of {}
+
+      You are not infected'
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2974947951157248
+    m_Localized: Relax
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2974961511342080
+    m_Localized: Do you want to relax? It will cost you {} money units.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2975099524915200
+    m_Localized: Relax
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2975330417156096
+    m_Localized: You successfully relaxed.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2975347240509440
+    m_Localized: You are not allowed to relax right now.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2975654599106560
+    m_Localized: As you have already bought a care package today, you are not allowed
+      to buy another. You can only buy one care package every day.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2975995017207808
+    m_Localized: As this is your last day in the hospital, you are not allowed to
+      buy a care package. You can only buy a care package, if you have more than
+      1 day in the hospital left.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2976489106219008
+    m_Localized: Buy Care Package
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2976514716639232
+    m_Localized: Do you want to buy a care package for {} money units? It will reduce
+      your time of stay to one day. You can only buy a care package on your first
+      day of staying in the hospital.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2976938819493888
+    m_Localized: You successfully bought a care package. Do you already feel better?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2976957626753024
+    m_Localized: You are not allowed to buy care packages right now.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2977301161222144
+    m_Localized: Current Petition Effects
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2978201271443456
+    m_Localized: 'Income Tax Level:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2978230577045504
+    m_Localized: 'Property Tax Level:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2978288965951488
+    m_Localized: Has Health Insurance been introduced?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2978311397089280
+    m_Localized: Is School Attendance free?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2978339758972928
+    m_Localized: In Lockdown?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2978355412115456
+    m_Localized: 'Current Minimum Wage:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2978387938942976
+    m_Localized: Is Disappropriation active?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2978415990448128
+    m_Localized: Has Social Welfare been introduced?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2981305446473728
+    m_Localized: Your Open Petitions
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2981323205156864
+    m_Localized: Vote on your open petitions.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2981546207911936
+    m_Localized: Vote
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2982185029771264
+    m_Localized: You successfully voted!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2982466677284864
+    m_Localized: Available Petitions
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2982484087840768
+    m_Localized: Close or delete existing petitions or register new petitions.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2982661230075904
+    m_Localized: Register
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2982906001268736
+    m_Localized: Close Petition
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2982983012884480
+    m_Localized: Do you want to close the following petition?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2983467983478784
+    m_Localized: Delete Petition
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2983487201779712
+    m_Localized: Do you want to delete the following petition?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2983745960976384
+    m_Localized: You successfully closed the petition.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2983761656061952
+    m_Localized: You cannot close this petition right now.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2983935921004544
+    m_Localized: You successfully closed the petition and because the majority voted
+      in favour of the petition, it is now taking effect.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2983966866579456
+    m_Localized: You successfully closed the petition, but because the majority voted
+      against the petition, it is not taking effect.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2984816745816064
+    m_Localized: You successfully deleted the petition.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2984844784738304
+    m_Localized: You cannot delete this petition right now.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2985114340073472
+    m_Localized: You successfully opened the petition.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2985132186836992
+    m_Localized: You cannot open this petition right now.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2985348533231616
+    m_Localized: You cannot register this petition right now.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2985619984392192
+    m_Localized: You forgot to add a value for the petition!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2985712946946048
+    m_Localized: The value of the petition has to be a number!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2985812582637568
+    m_Localized: The value of the petition has to be at least {}!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2985904572112896
+    m_Localized: The value of the petition has to be at most {}!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2986384945750016
+    m_Localized: Another player is managing the petitions right now.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2986422233112576
+    m_Localized: '{} is managing the petitions right now.'
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2987126385451008
+    m_Localized: '{0:plural:1 player has|{} players have} already voted.'
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2987597678419968
+    m_Localized: Day {}
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 3104720840990720
+    m_Localized: Day
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3105154930483200
+    m_Localized: MU {}
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 3106020076986368
+    m_Localized: Good
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3105994680475648
+    m_Localized: Problematic
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3105964066250752
+    m_Localized: Critical
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3106525540950016
+    m_Localized: Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3106529089331200
+    m_Localized: Help
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3108367104647168
+    m_Localized: Interact
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3108411115479040
+    m_Localized: Open Map
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3108476760530944
+    m_Localized: Toggle Voice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3108826187997184
+    m_Localized: Cannot hear you
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3108895305932800
+    m_Localized: Can hear you
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3108958275018752
+    m_Localized: Speaking
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3109245110886400
+    m_Localized: City
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3109263301582848
+    m_Localized: Mall
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3109277117620224
+    m_Localized: School
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3109286546415616
+    m_Localized: Town Hall
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3109610225049600
+    m_Localized: Hospital
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3109632442277888
+    m_Localized: Office
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3109643930476544
+    m_Localized: Lounge
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3109655448035328
+    m_Localized: Market Square
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3109670102933504
+    m_Localized: Home
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3110175915024384
+    m_Localized: Master Client
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3110556845907968
+    m_Localized: MU
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3111100700336128
+    m_Localized: No item available
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3111859030499328
+    m_Localized: You still have
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3111892563959808
+    m_Localized: open petition(s)!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3112606916845568
+    m_Localized: Petitions
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3113060027506688
+    m_Localized: End Evening
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3113086636171264
+    m_Localized: 'Templates
+
+      & Petitions'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3113143796146176
+    m_Localized: Petition Effects
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3113218895159296
+    m_Localized: Player Stats
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3113339150049280
+    m_Localized: Is Incubating
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3113363992911872
+    m_Localized: Stress Level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3113385488719872
+    m_Localized: Learning Rate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3113441965023232
+    m_Localized: Education Level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3113467365728256
+    m_Localized: 'Health Points
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3113484000337920
+    m_Localized: 'Money Units
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3113522453716992
+    m_Localized: Player Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3113623645495296
+    m_Localized: Current Petition Effects
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3113656549810176
+    m_Localized: Templates and Open and Closed Petitions
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3119147149598720
+    m_Localized: '{}/{} Yes Votes:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3119165298352128
+    m_Localized: '{}/{} No Votes:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3119822927470592
+    m_Localized: Unknown Player
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3120883067166720
+    m_Localized: No input device available.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3121047211253760
+    m_Localized: Move Forward
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3121148524666880
+    m_Localized: Move Left
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3121213402161152
+    m_Localized: Move Right
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3121298445869056
+    m_Localized: Move Backward
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3121796456554496
+    m_Localized: Interact
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3121841335607296
+    m_Localized: Toggle Voice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3121904736706560
+    m_Localized: Open Map
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3121958067281920
+    m_Localized: Confirm Dialog
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3122028942630912
+    m_Localized: Cancel Dialog
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3122077307150336
+    m_Localized: Call for Help
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3122150690693120
+    m_Localized: Toggle Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3122399110930432
+    m_Localized: Toggle Global Voice (Master only)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3122474490961920
+    m_Localized: Toggle Stats (Master only)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3122490429317120
+    m_Localized: Sprint (Master only)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3123046875045888
+    m_Localized: Window
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3123067334860800
+    m_Localized: Maximized Window
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3123087144558592
+    m_Localized: Exclusive Full Screen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3123112599789568
+    m_Localized: Full Screen Window
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3216271358992384
+    m_Localized: 'Your Password:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3216299335000064
+    m_Localized: 'Your Player Name:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3221413911240704
+    m_Localized: Disinfectant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3221424225034240
+    m_Localized: Health Points
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3221440876421120
+    m_Localized: Health Check
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3221899909439488
+    m_Localized: Vaccination Fund
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3222001164132352
+    m_Localized: Stocks
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3223333312831488
+    m_Localized: You should not be able to see this!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3223461549481984
+    m_Localized: You can only buy products during the day.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3223540809244672
+    m_Localized: You can only invest during the day.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3223562799980544
+    m_Localized: You can only send money during the day.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3223586241945600
+    m_Localized: You can only earn money during the day.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3223621700591616
+    m_Localized: You can only learn during the day.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3223644031066112
+    m_Localized: You can only vote during the day.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3223996830752768
+    m_Localized: You can only relax during the evening.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3224020255940608
+    m_Localized: You can only manage petitions during the evening.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3225110699483136
+    m_Localized: You cannot enter the hospital. You will be brought there when you
+      fall sick.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3225095000203264
+    m_Localized: You can only enter the lounge during the evening.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3225077862277120
+    m_Localized: You can only enter the office during the day.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3225057524097024
+    m_Localized: You can only enter the school during the day.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3225038293213184
+    m_Localized: You can only enter the mall during the day.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3224991203762176
+    m_Localized: You can only enter the town hall during the day or through the evening
+      activity dialog.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3225981848035328
+    m_Localized: You cannot exit the town hall in the evening.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3226015566045184
+    m_Localized: You cannot exit the hospital. You will be released from the hospital
+      once you have recovered.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3227406342725632
+    m_Localized: It has become evening
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3227446444466176
+    m_Localized: Pick a building to spend your evening at.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3227496318935040
+    m_Localized: 'Time Left: '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3227576593719296
+    m_Localized: '{} seconds left.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3228451911409664
+    m_Localized: Do not register
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3228784175783936
+    m_Localized: Register Petition Vote
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3228855747387392
+    m_Localized: Do you want the following petition to be registered?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3228892917309440
+    m_Localized: 'Time Left: '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3268142383669248
+    m_Localized: Left Shift
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3268289196892160
+    m_Localized: Right Shift
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3268338194751488
+    m_Localized: Left Ctrl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3268431106973696
+    m_Localized: Right Ctrl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3268532500078592
+    m_Localized: Left Alt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3268563437264896
+    m_Localized: Right Alt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3269947461115904
+    m_Localized: "Page \u25B2"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3270030432837632
+    m_Localized: "Page \u25BC"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3270720022552576
+    m_Localized: "Left \u2318"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3270729132580864
+    m_Localized: "Right \u2318"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3270703211782144
+    m_Localized: Right Windows
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3270690448515072
+    m_Localized: Left Windows
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3275715979681792
+    m_Localized: Return
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3276020951719936
+    m_Localized: Numlock
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3276118460899328
+    m_Localized: Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3276231660969984
+    m_Localized: Num Return
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3293260434546688
+    m_Localized: 'Closed
+
+      Petition:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3293601993498624
+    m_Localized: 'Open
+
+      Petition:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3293870936465408
+    m_Localized: 'Template:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3294799458902016
+    m_Localized: 'Enter a value:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3295062206881792
+    m_Localized: Open Petition
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3295094150701056
+    m_Localized: Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3295180909879296
+    m_Localized: Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3295257485287424
+    m_Localized: 'Create new petitions from templates:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3295672801075200
+    m_Localized: Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3295707617992704
+    m_Localized: Vote Yes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3295727570296832
+    m_Localized: Vote No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3295784889655296
+    m_Localized: 'Vote on this petition:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3296254668480512
+    m_Localized: Overview
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3296272662044672
+    m_Localized: Buildings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3296293813919744
+    m_Localized: Petitions
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3296326898589696
+    m_Localized: Attributes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3296349795295232
+    m_Localized: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3296433861730304
+    m_Localized: Day & Night
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3296456875876352
+    m_Localized: Map
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3296566158467072
+    m_Localized: A round is split into the daylight and the evening phase. If you
+      have at least 1 health point, you will start the daylight phase in your home.
+      Otherwise, you will be transported to the hospital.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3296655132237824
+    m_Localized: Daylight Phase
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3296673310351360
+    m_Localized: Evening Phase
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3296730453549056
+    m_Localized: 'In the daylight phase you can choose to:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3296823911030784
+    m_Localized: '- Stay at home and read this awesome information
+
+      - Learn
+      in school
+
+      - Work to earn money at the office'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3297262362599424
+    m_Localized: '- Buy products, invest in funds and send money to other users at
+      the mall
+
+      - Access information about the game and surveys at the market
+      square
+
+      - Vote on open petitions in the town hall'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3297517913153536
+    m_Localized: 'In the evening phase you can either:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3297546778353664
+    m_Localized: '- Stay at home and read this awesome information
+
+      - Design
+      new petitions and close or delete existing petitions in the town hall
+
+      -
+      Relax in the lounge'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3298090112688128
+    m_Localized: Home
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3298396309463040
+    m_Localized: Every round starts with everyone being at home. If a player is in
+      quarantine, they stay at home during the entire next round, lose no health
+      points and drop their infection if they had one.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3298455071662080
+    m_Localized: Here your personal information can be accessed as well as more details
+      about game mechanics.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3298510813962240
+    m_Localized: Hospital
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3298706604072960
+    m_Localized: If a player runs out of HP, they are transferred to the hospital.
+      After a full stay in hospital, players start with a small amount of HP and
+      are not infected.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3299091154640896
+    m_Localized: 'Buy Care Package:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3299125967364096
+    m_Localized: 'On your first day you can buy a care package which reduces the
+      stay in the hospital to one day.
+
+      Tip: The health insurance automatically
+      purchases this package.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3299237246443520
+    m_Localized: The lounge is one of two meeting places. It can be visited in the
+      evening phase of the round.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3299276500934656
+    m_Localized: 'Relax:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3299326283128832
+    m_Localized: Relaxing in the lounge reduces your stress level. It costs money
+      units.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3299675081449472
+    m_Localized: Mall
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3299712255565824
+    m_Localized: In the mall you can purchase goods and services that they require
+      or are helpful for the game.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3299757109452800
+    m_Localized: 'Buy Products:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3299785345507328
+    m_Localized: 'Invest into Funds:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3299891293626368
+    m_Localized: '- Disinfectant: Disables the possibility of being infected for
+      its buyer in a given round.
+
+      - Health check: Gives you information about
+      your stress level, health points and infection state.
+
+      - Health points'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3300064371580928
+    m_Localized: '- Vaccination fund: Increases vaccine development. With increasing
+      collective investment, the likelihood of a vaccine being spontaneously developed
+      at the beginning of a round increases.
+
+      - Stocks: By purchasing stocks,
+      you get a small dividend at the start of every round.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3300109904945152
+    m_Localized: 'Send Money:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3300143258050560
+    m_Localized: You can send money units to other players. This transaction does
+      not imply fees.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3300203534393344
+    m_Localized: Market Square
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3300236266741760
+    m_Localized: In the market square you can access general information about the
+      game and the current state.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3300263865262080
+    m_Localized: 'Global Funds:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3300296144625664
+    m_Localized: Here you can check the current values of the vaccination fund, the
+      stocks and the tax amount.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3300348644728832
+    m_Localized: 'Graphs:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3300382866055168
+    m_Localized: Here you can see a selection of statistics which visualize different
+      player attributes and petition results.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3300479045640192
+    m_Localized: Office
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3300492928786432
+    m_Localized: 'Earn Money:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3300540907429888
+    m_Localized: 'By working in the office you earn money units. The amount of money
+      units depend on your education level and the current total stock investments.
+
+      Be
+      careful: Working increases your stress level.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3300638517272576
+    m_Localized: School
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3300652257812480
+    m_Localized: 'Learn:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3300681794101248
+    m_Localized: By learning in the school, you increase your education level depending
+      on your learning speed. Learning initially costs money units.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3300750152867840
+    m_Localized: Town Hall
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3300787326984192
+    m_Localized: In the evening there is a town hall meeting, such that players can
+      develop petitions that are then laid out for a vote to be decided upon by all
+      players. During the daytime phase players can vote here.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3300950690930688
+    m_Localized: 'Petitions:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3300993980342272
+    m_Localized: Here you can design new petitions based on available templates and
+      close or delete existing ones.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3301025471176704
+    m_Localized: 'Votes:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3301059264684032
+    m_Localized: Here you can vote on open petitions.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3301106014396416
+    m_Localized: 'Petition Effects:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3301145310830592
+    m_Localized: Here you can see an overview of the effects of the petitions.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3301296989446144
+    m_Localized: Disappropriate the wealthy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3301335262470144
+    m_Localized: Disappropriation means that once a value X is decided upon during
+      the town hall meeting, every player is disappropriated of every money units
+      more than that value X they have at the end of every round.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3301404401377280
+    m_Localized: Introduce health insurance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3301449003606016
+    m_Localized: If health insurance is introduced, the care package is automatically
+      purchased, and the costs will be distributed among all players equally. If
+      taxes are active, the care package will be financed through taxes.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3301544801509376
+    m_Localized: The lounge will be closed.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3301566020493312
+    m_Localized: Change minimum wage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3301600048881664
+    m_Localized: In this petition the income of all players is affected.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3301631048982528
+    m_Localized: Free school
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3301660979535872
+    m_Localized: Initially a school visit is 10 money units. With this petition the
+      costs for a visit will be distributed among all players equally. If taxes are
+      active, school will be financed through taxes.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3301722992320512
+    m_Localized: Introduce social safety
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3301768731205632
+    m_Localized: If social safety is introduced, players that have a negative amount
+      of money units at the end of a round are automatically set to 10 money units.
+      This is paid from the tax fund, or if the tax fund is not active, by all players
+      equally.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3301829481504768
+    m_Localized: Change the income tax rate or change the property tax rate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3301944871002112
+    m_Localized: 'Initially there are no taxes. Taxes can be introduced to pay social
+      safety, school tuition or health insurance. The tax fund is filled by the income
+      and property tax.
+
+      Be careful: If after a round there are not enough
+      taxes collected, the deficit is divided among all players.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3302183300407296
+    m_Localized: Money Units
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 3302224790462464
+    m_Localized: 'You start with between 15 and 40 money units, and you can earn
+      money units at the office. The money units earned by working are dependent
+      on your education level.
+
+
+
+      It can be used in the mall to buy products
+      and invest in funds and in the hospital to buy a care package.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3302323985752064
+    m_Localized: Health Points
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3302346156843008
+    m_Localized: 'You start with between 10 and 30 health points. You can increase
+      your health points by buying them at the mall.
+
+
+
+      At the end of every
+      round you lose 10 health points. If you are infected, you will lose 10 addition
+      health points. A higher stress level will lead to even more health points lost.
+
+
+
+      Be
+      careful: If your health points are at or below 0 at the beginning of a round,
+      you will be brought to the hospital automatically. After returning from the
+      hospital, you will start the round with 10 health points.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3302604563718144
+    m_Localized: Infection State
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3302646234128384
+    m_Localized: '10% of the players will start the game infected. Infectious players
+      can infect you by being in the same building at the same time. The more contact
+      to infectious players you have, the higher the likelihood of infection.
+
+
+
+      At
+      the beginning of every round if otherwise no one is infected anymore, there
+      is a 10% chance for every player to spontaneously get infected.
+
+
+
+      After
+      one day of quarantine (one day of only being in the city and your home) or
+      a stay in the hospital, your infection is temporarily cured.'''
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3302782976827392
+    m_Localized: Stress Level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3302810202054656
+    m_Localized: 'You start with a stress level of 0. Working in the office or learning
+      in school increases your stress level.
+
+
+
+      The higher your stress level,
+      the more health points you lose at the beginning of a round.
+
+
+
+      Tip:
+      You can reduce your stress level by relaxing in the lounge.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3302917886615552
+    m_Localized: Learning Speed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3302947334823936
+    m_Localized: You play with a random, fixed learning speed. Your learning speed
+      determines how quickly your education level rises when you learn in school.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3303072715153408
+    m_Localized: Education Level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3303102100447232
+    m_Localized: 'You start with an education level of 1, and you can increase it
+      by learning in the school. The education progress gained by learning is dependent
+      on your learning speed.
+
+
+
+      Tip: The higher your education, the more money
+      units you earn when working in the office.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3303282778480640
+    m_Localized: Character Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3303312897777664
+    m_Localized: Here you can customize your character. You can change your gender,
+      your hair, the color of your skin, mask, shirt, trouser and shoes.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3303370003226624
+    m_Localized: General Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3303400286101504
+    m_Localized: Here you can change general settings like whether to hode possible
+      trigger elements or whether certain HUD elements are visible.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3303453029474304
+    m_Localized: Key Bindings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3303486541963264
+    m_Localized: Here can you change what keys to use to interact with the game.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3303543970373632
+    m_Localized: Volume Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3303574412632064
+    m_Localized: Here you can change the volume of the effects, the ambient noise
+      and the voices of the other players as well as the threshold for your voice
+      activation. Additionally, you can change your input device which is used for
+      the voice chat.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3304249137733632
+    m_Localized: Money Units
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3304280171388928
+    m_Localized: Health Points
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3304299582627840
+    m_Localized: Infection State
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3304322680659968
+    m_Localized: Stress Level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3304341018157056
+    m_Localized: Learning Speed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3304359779278848
+    m_Localized: Education Level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3925864287703040
+    m_Localized: Mouse Sensitivity (Player)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6728348564365312
+    m_Localized: (Effects with currently open petitions are underlined.)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8713638304718848
+    m_Localized: Black
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8713640355733504
+    m_Localized: White
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8713641840517120
+    m_Localized: Grey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8713703471620096
+    m_Localized: Yellow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8713704759271424
+    m_Localized: Orange
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8713706248249344
+    m_Localized: Red
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8713707741421568
+    m_Localized: Green
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8713709234593792
+    m_Localized: Blue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8713710857789440
+    m_Localized: Purple
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8713712971718656
+    m_Localized: Very Light
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8713714456502272
+    m_Localized: Light
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8713715907731456
+    m_Localized: Medium
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8713717312823296
+    m_Localized: Dark
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8713718965379072
+    m_Localized: Very Dark
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8713875610050560
+    m_Localized: Brown
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8713876897701888
+    m_Localized: Blonde
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8713878164381696
+    m_Localized: Dark Blonde
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8714565568864256
+    m_Localized: Male
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8714567175282688
+    m_Localized: Female
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16214593597476864
+    m_Localized: There is no instance available at the moment.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20853676990926848
+    m_Localized: You have insufficient money to perform this action.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32300968415465472
+    m_Localized: You feel relaxed again.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32301178327797760
+    m_Localized: You feel ok again.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32301347773485056
+    m_Localized: You still feel stressed.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32301576774094848
+    m_Localized: You still feel very stressed.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32301965359583232
+    m_Localized: Is stock income tax-free?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32302326182973440
+    m_Localized: Other Stats
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32302211997241344
+    m_Localized: Other Stats
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32302150257086464
+    m_Localized: Is Infected
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32302089540341760
+    m_Localized: 'Amount for players in town hall:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32302047563747328
+    m_Localized: Are players happier?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32301975627239424
+    m_Localized: 'Amount of tax revenue for vaccine:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32567961160912896
+    m_Localized: Other Stats
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32568563970478080
+    m_Localized: Other Statistics
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32593688967122944
+    m_Localized: Is Infected
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1
+    00000000:
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 00a09aeb09680a0000a0dabd3e7c0a0000a01ad4c47f0a0000a0da6ac47f0a0000a01acc65800a0000a05ab666800a0000a05a13c7860a0000a05ab4d0860a0000a09ae838880a0000a0da9b36890a0000a09abd378c0a0000a05adb088e0a0000a0da42fc8d0a0000a09ad5af8f0a0000a09aa4b98f0a0000a01a07ba8f0a0000a05a649b900a0000a05a733b910a0000a01a34b6910a0000a05ad61f930a0000a0da6b249c0a0000a05a9c229c0a0000a05a4a349d0a0000a01a8fc69c0a0000a09a381f080b0000a09a7651bb0b00

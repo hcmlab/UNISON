@@ -1,0 +1,19 @@
+Coronagame petition mechanism
+The petition mechanism consists of a series of steps
+1. Create a petition
+2. Open a petition
+3. Vote on a petition
+4. Close petition
+The steps 1, 2 and 4 happen during the evening phase in the town hall. Step 3 is available during the daytime phase in the town hall. 
+Step 1 – Create a petition
+The vote database distinguishes between two kinds of petitions: templates and customized or user created petitions. By sending the actioncode votetemp a list of all templates for petitions is received. These contain a text, a scale and a valuetype information. 
+Each petition changes one of the fundamental game scales in the scales database. The scale sent by the actioncode is the one that the petition changes. These scales are either integers (tax rates e.g.) or bools (lockdown e.g.), therefore the backend sends this information as well.
+In the townhall players should be able to select a template and set a value. Once they have done this, they can send such a customized petition back to the backend and by this register the petition. This is done via the votedev actioncode that requires a JSON array. This array should contain [text, scale, value]. The actioncode returns a unique ID for the petition. 
+In case of a mistake, the petition can be deleted with the actioncode delvote that requires the ID of the petition.
+Step 2 – Open the petition
+With the actioncode openvote a petition is marked as open. Unless it is opened players cannot vote on it. The actioncode requires the ID of the petition. 
+Step 3 – Vote on the petition
+During the daylight phases every player should be able to vote on the petitions that are currently open for him. The actioncode listopenvote gives a list of all open petitions and requires a player-ID. It then gives a list of open petitions that the player with the given ID has not voted on. This means that giving an ID to the backend that no player has will give all open petitions. The actioncode returns a JSON array with the ID and the text of all open petitions for the given player. 
+A player can vote on all these petitions and select either his approval or disapproval (e.g. by selecting “yes” or “no”). With the actioncode vote this is sent to the backend. This actioncode requires three values: player-ID, petition-ID and a string “yes” or “no”. 
+Step 4 – Close the petition
+During a town hall meeting in the evening phase open petitions can be closed by sending the actioncode closevote that requires the voteid. This actioncode automatically counts the votes and implements the result. 

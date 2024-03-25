@@ -1,0 +1,2052 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: String Table Collection_de
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: f41771362c58ee845b203c476710c350, type: 2}
+  m_Metadata:
+    m_Items:
+    - id: 0
+  m_TableData:
+  - m_Id: 2109984120832
+    m_Localized: Hosten
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2204792168448
+    m_Localized: Beitreten
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2324631822336
+    m_Localized: Verlassen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2685115473920
+    m_Localized: Lobby
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3032823275520
+    m_Localized: Spielername
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3288977809408
+    m_Localized: "Zurzeit ist keine Instanz verf\xFCgbar."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3391566290944
+    m_Localized: Erneut anmelden
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3553755832320
+    m_Localized: "Bitte gib das Passwort ein, um zu best\xE4tigen, dass du Spiele
+      hosten darfst."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3628905177088
+    m_Localized: 'Passwort:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3731325886464
+    m_Localized: Anmelden
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3893746114560
+    m_Localized: Session erstellen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4013006954496
+    m_Localized: Name der Instanz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4100235894784
+    m_Localized: "Gr\xF6\xDFe der Lobby"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4250022879232
+    m_Localized: Dauer des Tages
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4360668618752
+    m_Localized: Relax-Cooldown
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4676596178944
+    m_Localized: Bitte warten Sie auf den Master-Client, um das Spiel zu starten.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4764475236352
+    m_Localized: Starten (0/16)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4880258998272
+    m_Localized: "Zur\xFCcksetzen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5254533521408
+    m_Localized: "Effektlautst\xE4rke"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5685213044736
+    m_Localized: "Umgebungslaust\xE4rke"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6087887200256
+    m_Localized: "Sprachlautst\xE4rke"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6220565618688
+    m_Localized: Stimmschwellenwert
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6487075889152
+    m_Localized: "Eingabeger\xE4t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6559758983168
+    m_Localized: "Zur\xFCcksetzen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6820627914752
+    m_Localized: "M\xF6gliche Trigger:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6903306035200
+    m_Localized: "Krankenhausger\xE4usche"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6974797946880
+    m_Localized: Spritzen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7036659736576
+    m_Localized: 'HUD-Elemente:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7163461935104
+    m_Localized: "Tastenbelegungs\xFCbersicht"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7450151002112
+    m_Localized: "\xDCbersichtskarte"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7506648276992
+    m_Localized: 'Sonstiges:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7536809517056
+    m_Localized: Vollbild
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7725418979328
+    m_Localized: Randomisieren
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7804661964800
+    m_Localized: "K\xF6rper"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7833879486464
+    m_Localized: Haarfarbe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7855002001408
+    m_Localized: Hautfarbe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7901462306816
+    m_Localized: Farbe der Maske
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7964993429504
+    m_Localized: Farbe des Shirts
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8009985728512
+    m_Localized: Farbe der Hose
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8041065521152
+    m_Localized: Farbe der Schuhe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8926671839232
+    m_Localized: Button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11978007027712
+    m_Localized: 'Sprach-
+
+      auswahl'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2921358230724608
+    m_Localized: "Bitte melde dich an. (Du kannst die Tabulatortaste dr\xFCcken,
+      um direkt vom Namens- zum Passwortfeld zu wechseln.)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2921354585874432
+    m_Localized: Anmelden
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2921612925640704
+    m_Localized: Anmelden
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2921657594978304
+    m_Localized: Abbrechen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2921743427215360
+    m_Localized: Bitte gib deinen Spielernamen ein!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2921767364108288
+    m_Localized: Bitte gib dein Password ein!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2922130456616960
+    m_Localized: Falscher Spielername oder falsches Passwort!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2922309335293952
+    m_Localized: Es gibt ein Problem mit dem Backend-Server!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2922470224601088
+    m_Localized: Bitte wende dich an den Administrator.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2923308112322560
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2923398663151616
+    m_Localized: "Schlie\xDFen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2925824325623808
+    m_Localized: Ok
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2925766461005824
+    m_Localized: Tag ist zu Ende
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2925784085471232
+    m_Localized: "Der Tag ist zu Ende. Du kannst jetzt mit den Spielern \xFCber ihre
+      Erfahrungen sprechen. Dr\xFCcke auf OK, um die n\xE4chste Runde zu starten."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2926924407676928
+    m_Localized: Um Hilfe rufen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2926951821647872
+    m_Localized: Bist du sicher, dass du den Administrator um Hilfe bitten willst?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2927630468423680
+    m_Localized: Neuer Tag
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2927757862019072
+    m_Localized: "Du hast dich nicht wohl gef\xFChlt und wurdest deshalb ins Krankenhaus
+      gebracht. Du bist f\xFCr zwei Tage suspendiert. Du kannst ein Pflegepaket kaufen,
+      um deinen Aufenthalt auf nur einen Tag zu verk\xFCrzen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2927919506300928
+    m_Localized: "Du f\xFChlst dich (immer noch) nicht wohl und bist f\xFCr einen
+      Tag suspendiert."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2928028658868224
+    m_Localized: Du hast dich erfolgreich erholt und wurdest aus dem Krankenhaus
+      entlassen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2928367772540928
+    m_Localized: "Der Tag ist zu Ende. Du kannst jetzt mit dem anderen Spielern \xFCber
+      deine Erfahrungen sprechen. Der Master-Client wird die n\xE4chste Runde starten."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2929141583880192
+    m_Localized: "Es gibt {0:plural:keine Petitionen|eine offene Petition|{} offene
+      Petitionen}, \xFCber die du noch nicht abgestimmt hast."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2931605183832064
+    m_Localized: Ein neuer Tag hat begonnen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2931957404704768
+    m_Localized: "Gl\xFCckwunsch!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2932041659883520
+    m_Localized: "Gl\xFCckwunsch! Du hast das Spiel beendet."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2932142193156096
+    m_Localized: Lobby wurde geschlossen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2932143921209344
+    m_Localized: Der Master-Client hat die Lobby verlassen. Die Lobby wurde deswegen
+      geschlossen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2932461656514560
+    m_Localized: Verbindung getrennt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2932463275515904
+    m_Localized: Du wurdest vom Spiel getrennt.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2939124220338176
+    m_Localized: Neue Petitionsauswirkungen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2939152456392704
+    m_Localized: "Da die Mehrheit f\xFCr die folgende Petition gestimmt hat, tritt
+      sie nun in Kraft."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2939757954506752
+    m_Localized: "Das Ergebnis der Abstimmung \xFCber die Registrierung der Petition
+      war positiv und die Petition wird registriert."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2939834483777536
+    m_Localized: Das Ergebnis der Abstimmung, ob deine Petition registriert werden
+      soll, war positiv und deine Petition wird registriert werden.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2939876737196032
+    m_Localized: "Das Ergebnis der Abstimmung \xFCber die Registrierung deiner Petition
+      ist negativ und deine Petition wird nicht registriert."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2939813017329664
+    m_Localized: Das Ergebnis der Abstimmung, ob die Petition registriert werden
+      soll, ist negativ und die Petition wird nicht registriert.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2939695887196160
+    m_Localized: Ergebnis Registrierung der Petition
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2944819086925824
+    m_Localized: Der Impfstoff wurde entdeckt!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2944837743190016
+    m_Localized: "Gl\xFCckwunsch! Ihr habt einen Impfstoff entdeckt! Du hast das
+      Spiel erfolgreich beendet. Du kannst jetzt mit den anderen \xFCber deine Erfahrungen
+      sprechen. Klicke auf ok, um das Spiel zu verlassen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2945222713188352
+    m_Localized: "Der n\xE4chste Tag wird gerade vorbereitet..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2945205294243840
+    m_Localized: Bitte warten
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2945638725230592
+    m_Localized: Kritischer Fehler
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2945910784565248
+    m_Localized: Der Client kann sich nicht mit dem Backend-Server verbinden!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2945998227415040
+    m_Localized: Der Client kann sich nicht mit dem Internet verbinden!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2946040258535424
+    m_Localized: "Es ist kein Eingabeger\xE4t ausgew\xE4hlt. Da der Voice-Chat eine
+      wichtige Funktion des Spiels ist, wird empfohlen, ein Mikrofon zu verwenden."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2946027071643648
+    m_Localized: Warnung
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2946910404648960
+    m_Localized: Spiel verlassen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2946928649871360
+    m_Localized: Bist du sicher, dass du das Spiel verlassen willst?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2947128835612672
+    m_Localized: Ja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2947149513531392
+    m_Localized: Nein
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2948183728234496
+    m_Localized: Nur der Master-Client kann das Spiel starten!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2949133968777216
+    m_Localized: "Erneut anmelden ist derzeit nicht verf\xFCgbar!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2949334662029312
+    m_Localized: Der Client kann sich nicht mit dem Photon-Netzwerk verbinden!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2949585305247744
+    m_Localized: Der Raum ist bereits voll.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2951358682144768
+    m_Localized: Die Taste {0} ist bereits an die Aktion {1} gebunden.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2955059341729792
+    m_Localized: Bitte geben Sie zuerst einen Instanznamen ein!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2955231350136832
+    m_Localized: "Der Instanzname ist zu lang! Die maximale L\xE4nge sind {0} Zeichen."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2955233115938816
+    m_Localized: "Der Instanzname ist zu kurz! Die minimale L\xE4nge sind {0} Zeichen."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2955234856574976
+    m_Localized: Bitte gib zuerst deinen Spielernamen ein!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2955924471455744
+    m_Localized: "Dein Spielername ist zu lang! Die maximale L\xE4nge sind {0} Zeichen."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2955928401518592
+    m_Localized: "Dein Spielername ist zu kurz! Die minimale L\xE4nge sind {0} Zeichen."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2956744076206080
+    m_Localized: Der PUN-Raum konnte nicht erstellt werden, weil du entweder keine
+      Verbindung herstellen konntest oder bereits ein Raum mit diesem Namen existiert.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2956936129191936
+    m_Localized: Falsches Master-Passwort!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2957131617312768
+    m_Localized: Eine Instanz mit diesem Namen existiert bereits. Bitte verwende
+      einen anderen Namen!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2957551194513408
+    m_Localized: Erfolgreich!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2957697550557184
+    m_Localized: Zurzeit nicht erlaubt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2958313245024256
+    m_Localized: Sie sollten jetzt nicht im Krankenhaus sein!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2962068556390400
+    m_Localized: Du hast heute schon gelernt. Du kannst nur einmal am Tag entweder
+      lernen oder arbeiten.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2962102526058496
+    m_Localized: Du hast heute schon gearbeitet. Du kannst nur einmal am Tag entweder
+      lernen oder arbeiten.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2962480319602688
+    m_Localized: Lernen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2962939348426752
+    m_Localized: Willst du lernen? Es wird dich {0} Geldeinheiten kosten.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2962980704264192
+    m_Localized: "Willst du lernen? Es w\xFCrde dich {0} Geldeinheiten kosten, aber
+      derzeit ist der Schulbesuch kostenlos und wird durch Steuern finanziert."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2963951203295232
+    m_Localized: Geld verdienen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2964038037970944
+    m_Localized: Willst du arbeiten, um Geld zu verdienen?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2964288056238080
+    m_Localized: "Du hast erfolgreich gelernt. F\xFChlst du dich schon schlauer?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2964313352085504
+    m_Localized: Du darfst im Moment nicht lernen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2964563944972288
+    m_Localized: Du darfst im Moment nicht arbeiten.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2964527769100288
+    m_Localized: Du hast erfolgreich {0} Geldeinheiten verdient.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2965070583341056
+    m_Localized: "Diagramme sind noch nicht verf\xFCgbar! Bitte komm sp\xE4ter wieder."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2965186216108032
+    m_Localized: Diagramme
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2965199994396672
+    m_Localized: "Alle derzeit verf\xFCgbaren Diagramme:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2965594376413184
+    m_Localized: Globale Fonds
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2965617403142144
+    m_Localized: 'Impffond: {0} Geldeinheiten
+
+      Aktien: {1} Geldeinheiten
+
+      Steuerbetrag:
+      {2} Geldeinheiten'
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2966532977762304
+    m_Localized: Bitte gib eine Zahl ein.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2966586417389568
+    m_Localized: Bitte gib eine positive Zahl ein.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2966612422074368
+    m_Localized: "Bitte gib eine g\xFCltige Nummer ein."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2968301547986944
+    m_Localized: Geld verschicken
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2968362428309504
+    m_Localized: Willst du Geld an einen anderen Spieler schicken?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2968530506653696
+    m_Localized: Verschicken
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2968969121800192
+    m_Localized: Du darfst im Moment kein Geld an andere Spieler schicken.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2968920799223808
+    m_Localized: Du hast erfolgreich {0} Geldeinheiten an {1} gesendet.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2969705247318016
+    m_Localized: "Bitte w\xE4hle zuerst eine Option aus."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2969894880190464
+    m_Localized: In Fond investieren
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2969908805279744
+    m_Localized: Willst du in einen Fonds investieren?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2970137642311680
+    m_Localized: Investieren
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2970864360005632
+    m_Localized: Willst du in Aktien investieren? Der aktuelle Wert ist {0} Geldeinheiten.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2970918458138624
+    m_Localized: "Willst du in den Impffond investieren? Der aktuelle Wert betr\xE4gt
+      {0} Geldeinheiten."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2971500564619264
+    m_Localized: Du hast erfolgreich in den Impffond investiert.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2971516595249152
+    m_Localized: Du darfst im Moment nicht in den Impffond investieren.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2971446416154624
+    m_Localized: Du hast erfolgreich in Aktien investiert.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2971467328954368
+    m_Localized: Du darfst im Moment nicht in Aktien investieren.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2971954946154496
+    m_Localized: Produkte kaufen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2971969244536832
+    m_Localized: Willst du etwas kaufen?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2972068297220096
+    m_Localized: Kaufen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2972735132835840
+    m_Localized: "Willst du Desinfektionsmittel f\xFCr {0} Geldeinheiten kaufen?"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2972777260425216
+    m_Localized: "Willst du Lebenspunkte f\xFCr {0} Geldeinheiten kaufen?"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2972778912980992
+    m_Localized: "Willst du einen Gesundheitscheck f\xFCr {0} Geldeinheiten kaufen?"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2973575008657408
+    m_Localized: Du hast erfolgreich Desinfektionsmittel gekauft.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2973591764901888
+    m_Localized: Du darfst im Moment kein Desinfektionsmittel kaufen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2973599364980736
+    m_Localized: Du hast erfolgreich Lebenspunkte gekauft.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2973705325682688
+    m_Localized: Du darfst im Moment keine Lebenspunkte kaufen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2973746845097984
+    m_Localized: '{0} Lebenspunkte
+
+      Stresslevel von {1}
+
+      Du bist infiziert'
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2974434291523584
+    m_Localized: '{0} Lebenspunkte
+
+      Stresslevel von {1}
+
+      Du bist nicht
+      infiziert'
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2974947951157248
+    m_Localized: Entspannen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2974961511342080
+    m_Localized: Willst du dich entspannen? Es wird dich {0} Geldeinheiten kosten.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2975099524915200
+    m_Localized: Entspannen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2975330417156096
+    m_Localized: Du hast dich erfolgreich entspannt.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2975347240509440
+    m_Localized: Du darfst dich im Moment nicht entspannen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2975654599106560
+    m_Localized: Da du heute bereits ein Pflegepaket gekauft hast, darfst du kein
+      weiteres kaufen. Du kannst jeden Tag nur ein Pflegepaket kaufen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2975995017207808
+    m_Localized: Da das dein letzter Tag im Krankenhaus ist, darfst du kein Pflegepaket
+      kaufen. Du kannst nur dann ein Pflegepaket kaufen, wenn du noch mehr als einen
+      Tag im Krankenhaus bleiben musst.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2976489106219008
+    m_Localized: Pflegepaket kaufen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2976514716639232
+    m_Localized: "Willst du ein Pflegepaket f\xFCr {0} Geldeinheiten kaufen? Damit
+      verk\xFCrzt sich deine Aufenthaltsdauer auf einen Tag. Du kannst nur am ersten
+      Tag deines Aufenthalts im Krankenhaus ein Pflegepaket kaufen."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2976938819493888
+    m_Localized: "Du hast erfolgreich ein Pflegepaket gekauft. F\xFChlst du dich
+      schon besser?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2976957626753024
+    m_Localized: Du darfst im Moment keine Pflegepakete kaufen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2977301161222144
+    m_Localized: Aktuelle Auswirkungen der Petitionen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2978201271443456
+    m_Localized: "H\xF6he der Einkommensteuer:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2978230577045504
+    m_Localized: "H\xF6he der Verm\xF6gensteuer:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2978288965951488
+    m_Localized: "Wurde eine Krankenversicherung eingef\xFChrt?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2978311397089280
+    m_Localized: Ist der Schulbesuch kostenlos?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2978339758972928
+    m_Localized: In Lockdown?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2978355412115456
+    m_Localized: 'Aktueller Mindestlohn:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2978387938942976
+    m_Localized: Ist die Enteignung aktiv?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2978415990448128
+    m_Localized: "Wurde die Sozialf\xFCrsorge eingef\xFChrt?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2981305446473728
+    m_Localized: Deine offenen Petitionen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2981323205156864
+    m_Localized: "Stimmt \xFCber deine offenen Petitionen ab."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2981546207911936
+    m_Localized: Abstimmen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2982185029771264
+    m_Localized: Du hast erfolgreich abgestimmt!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2982466677284864
+    m_Localized: "Verf\xFCgbare Petitionen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2982484087840768
+    m_Localized: "Schlie\xDFe oder l\xF6sche bestehende Petitionen oder registriere
+      neue Petitionen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2982661230075904
+    m_Localized: Registrieren
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2982906001268736
+    m_Localized: "Petition schlie\xDFen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2982983012884480
+    m_Localized: "Willst du die folgende Petition schlie\xDFen?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2983467983478784
+    m_Localized: "Petition l\xF6schen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2983487201779712
+    m_Localized: "Willst du die folgende Petition l\xF6schen?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2983745960976384
+    m_Localized: Du hast die Petition erfolgreich geschlossen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2983761656061952
+    m_Localized: "Du kannst diese Petition jetzt nicht schlie\xDFen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2983935921004544
+    m_Localized: "Du hast die Petition erfolgreich geschlossen und da die Mehrheit
+      f\xFCr die Petition gestimmt hat, wird sie jetzt wirksam."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2983966866579456
+    m_Localized: Du hast die Petition erfolgreich geschlossen, aber weil die Mehrheit
+      gegen die Petition gestimmt hat, wird sie nicht wirksam.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2984816745816064
+    m_Localized: "Du hast die Petition erfolgreich gel\xF6scht."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2984844784738304
+    m_Localized: "Du kannst diese Petition jetzt nicht l\xF6schen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2985114340073472
+    m_Localized: "Du hast die Petition erfolgreich ge\xF6ffnet."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2985132186836992
+    m_Localized: "Du kannst diese Petition jetzt nicht \xF6ffnen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2985348533231616
+    m_Localized: Du kannst diese Petition jetzt nicht registrieren.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2985619984392192
+    m_Localized: "Du hast vergessen, einen Wert f\xFCr die Petition anzugeben!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2985712946946048
+    m_Localized: Der Wert der Petition muss eine Zahl sein!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2985812582637568
+    m_Localized: Der Wert der Petition muss mindestens {0} sein!
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2985904572112896
+    m_Localized: "Der Wert der Petition darf h\xF6chstens {0} sein!"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2986384945750016
+    m_Localized: Ein anderer Spieler verwaltet im Moment die Petitionen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2986422233112576
+    m_Localized: '{0} verwaltet im Moment die Petitionen.'
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2987126385451008
+    m_Localized: '{0:plural:1 Spieler hat|{} Spieler haben} bereits abgestimmt.'
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2987597678419968
+    m_Localized: Tag {0}
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 3104720840990720
+    m_Localized: Tag
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3105154930483200
+    m_Localized: GE {0}
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 3106020076986368
+    m_Localized: Gut
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3105994680475648
+    m_Localized: Problematisch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3105964066250752
+    m_Localized: Kritisch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3106525540950016
+    m_Localized: "Men\xFC"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3106529089331200
+    m_Localized: Hilfe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3108367104647168
+    m_Localized: Interagieren
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3108411115479040
+    m_Localized: "Karte \xF6ffnen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3108476760530944
+    m_Localized: Stimme umschalten
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3108826187997184
+    m_Localized: "Kann dich nicht h\xF6ren"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3108895305932800
+    m_Localized: "Kann dich h\xF6ren"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3108958275018752
+    m_Localized: Spricht
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3109245110886400
+    m_Localized: Stadt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3109263301582848
+    m_Localized: Einkaufszentrum
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3109277117620224
+    m_Localized: Schule
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3109286546415616
+    m_Localized: Rathaus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3109610225049600
+    m_Localized: Krankenhaus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3109632442277888
+    m_Localized: "B\xFCro"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3109643930476544
+    m_Localized: Lounge
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3109655448035328
+    m_Localized: Marktplatz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3109670102933504
+    m_Localized: Zuhause
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3110175915024384
+    m_Localized: Master-Client
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3110556845907968
+    m_Localized: GE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3111100700336128
+    m_Localized: "Kein Item verf\xFCgbar"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3111859030499328
+    m_Localized: Du hast noch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3111892563959808
+    m_Localized: offene Petition(en)!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3112606916845568
+    m_Localized: Petitionen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3113060027506688
+    m_Localized: Abend beenden
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3113086636171264
+    m_Localized: 'Vorlagen &
+
+      Petitionen'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3113143796146176
+    m_Localized: 'Petitions-
+
+      auswirkungen'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3113218895159296
+    m_Localized: 'Spieler-
+
+      statistiken'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3113339150049280
+    m_Localized: Inkubiert
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3113363992911872
+    m_Localized: 'Stress-
+
+      level'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3113385488719872
+    m_Localized: Lernrate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3113441965023232
+    m_Localized: 'Bildungs-
+
+      grad'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3113467365728256
+    m_Localized: 'Lebens-
+
+      punkte'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3113484000337920
+    m_Localized: 'Geldein-
+
+      heiten'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3113522453716992
+    m_Localized: Spielername
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3113623645495296
+    m_Localized: Aktuelle Auswirkungen der Petitionen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3113656549810176
+    m_Localized: Vorlagen und offene und geschlossene Petitionen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3119165298352128
+    m_Localized: '{0}/{1} Nein-Stimmen:'
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 3119147149598720
+    m_Localized: '{0}/{1} Ja-Stimmen:'
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 3119822927470592
+    m_Localized: Unbekannter Spieler
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3120883067166720
+    m_Localized: "Kein Eingabeger\xE4t verf\xFCgbar."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3121047211253760
+    m_Localized: "Vorw\xE4rts bewegen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3121148524666880
+    m_Localized: Nach links bewegen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3121213402161152
+    m_Localized: Nach rechts bewegen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3121298445869056
+    m_Localized: "R\xFCckw\xE4rts bewegen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3121796456554496
+    m_Localized: Interagieren
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3121841335607296
+    m_Localized: Stimme umschalten
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3121904736706560
+    m_Localized: "Karte \xF6ffnen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3121958067281920
+    m_Localized: "Dialog best\xE4tigen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3122028942630912
+    m_Localized: Dialog abbrechen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3122077307150336
+    m_Localized: Um Hilfe rufen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3122150690693120
+    m_Localized: "Men\xFC umschalten"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3122399110930432
+    m_Localized: Globale Stimme umschalten (nur Master)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3122474490961920
+    m_Localized: Stats umschalten (nur Master)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3122490429317120
+    m_Localized: Sprinten (nur Master)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3123067334860800
+    m_Localized: Maximiertes Fenster
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3123046875045888
+    m_Localized: Fenster
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3123087144558592
+    m_Localized: Exklusives Vollbild
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3123112599789568
+    m_Localized: Vollbild-Fenster
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3216271358992384
+    m_Localized: 'Dein Passwort:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3216299335000064
+    m_Localized: 'Dein Spielername:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3221413911240704
+    m_Localized: Desinfektionsmittel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3221424225034240
+    m_Localized: Lebenspunkte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3221440876421120
+    m_Localized: Gesundheitscheck
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3221899909439488
+    m_Localized: Impffond
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3222001164132352
+    m_Localized: Aktien
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3223333312831488
+    m_Localized: "Du solltest das nicht sehen k\xF6nnen!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3223461549481984
+    m_Localized: "Du kannst nur tags\xFCber Produkte kaufen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3223540809244672
+    m_Localized: "Du kannst nur tags\xFCber investieren."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3223562799980544
+    m_Localized: "Du kannst nur tags\xFCber Geld verschicken."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3223586241945600
+    m_Localized: "Du kannst nur tags\xFCber Geld verdienen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3223621700591616
+    m_Localized: "Du kannst nur tags\xFCber lernen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3223644031066112
+    m_Localized: "Du kannst nur tags\xFCber abstimmen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3223996830752768
+    m_Localized: Du kannst dich nur am Abend entspannen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3224020255940608
+    m_Localized: Du kannst Petitionen nur am Abend verwalten.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3225110699483136
+    m_Localized: Du kannst das Krankenhaus nicht betreten. Du wirst dorthin gebracht,
+      wenn du krank wirst.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3225095000203264
+    m_Localized: Du kannst die Lounge nur am Abend betreten.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3225077862277120
+    m_Localized: "Du kannst das B\xFCro nur tags\xFCber betreten."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3225057524097024
+    m_Localized: "Du kannst die Schule nur tags\xFCber betreten."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3225038293213184
+    m_Localized: "Du kannst das Einkaufszentrum nur tags\xFCber betreten."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3224991203762176
+    m_Localized: "Du kannst das Rathaus nur tags\xFCber oder \xFCber den abendlichen
+      Aktivit\xE4tsdialog betreten."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3225981848035328
+    m_Localized: Du kannst das Rathaus am Abend nicht verlassen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3226015566045184
+    m_Localized: Du kannst das Krankenhaus nicht verlassen. Du wirst aus dem Krankenhaus
+      entlassen, sobald du dich erholt hast.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3227406342725632
+    m_Localized: Es ist Abend geworden
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3227446444466176
+    m_Localized: "Suche dir ein Geb\xE4ude aus, bei dem du den Abend verbringst."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3227496318935040
+    m_Localized: 'Verbleibende Zeit: '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3227576593719296
+    m_Localized: "{0} Sekunden \xFCbrig."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 3228451911409664
+    m_Localized: Nicht registrieren
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3228784175783936
+    m_Localized: Abstimmung Petition zu registrieren
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3228855747387392
+    m_Localized: Willst du, dass die folgende Petition registriert wird?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3228892917309440
+    m_Localized: 'Verbleibende Zeit: '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3268142383669248
+    m_Localized: Shift links
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3268289196892160
+    m_Localized: Shift rechts
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3268338194751488
+    m_Localized: Strg links
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3268431106973696
+    m_Localized: Strg rechts
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3268532500078592
+    m_Localized: Alt links
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3268563437264896
+    m_Localized: Alt rechts
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3269947461115904
+    m_Localized: "Bild \u25B2"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3270030432837632
+    m_Localized: "Bild \u25BC"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3270720022552576
+    m_Localized: "\u2318 links"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3270729132580864
+    m_Localized: "\u2318 rechts"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3270690448515072
+    m_Localized: Windows links
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3270703211782144
+    m_Localized: Windows rechts
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3275715979681792
+    m_Localized: Eingabe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3276020951719936
+    m_Localized: Numlock
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3276118460899328
+    m_Localized: "Zur\xFCck"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3276231660969984
+    m_Localized: Num Eingabe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3293260434546688
+    m_Localized: 'Geschlossene
+
+      Petition:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3293601993498624
+    m_Localized: 'Offene
+
+      Petition:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3293870936465408
+    m_Localized: 'Vorlage:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3294799458902016
+    m_Localized: 'Gib einen Wert ein:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3295062206881792
+    m_Localized: "Petition \xF6ffnen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3295094150701056
+    m_Localized: "Zur\xFCck"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3295180909879296
+    m_Localized: "Zur\xFCck"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3295257485287424
+    m_Localized: 'Erstelle neue Petitionen aus Vorlagen:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3295672801075200
+    m_Localized: "Zur\xFCck"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3295707617992704
+    m_Localized: Ja stimmen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3295727570296832
+    m_Localized: Nein stimmen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3295784889655296
+    m_Localized: "Stimme \xFCber diese Petition ab:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3296254668480512
+    m_Localized: "\xDCbersicht"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3296272662044672
+    m_Localized: "Geb\xE4ude"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3296293813919744
+    m_Localized: Petitionen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3296326898589696
+    m_Localized: Attribute
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3296349795295232
+    m_Localized: Einstellungen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3296433861730304
+    m_Localized: Tag & Nacht
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3296456875876352
+    m_Localized: Karte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3296566158467072
+    m_Localized: Eine Runde wird in eine Tages- und eine Abendphase unterteilt. Wenn
+      du mindestens 1 Lebenspunkt hast, beginnst du die Tagesphase in deinem Haus.
+      Andernfalls wirst du ins Krankenhaus gebracht.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3296655132237824
+    m_Localized: Tagesphase
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3296673310351360
+    m_Localized: Abendphase
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3296730453549056
+    m_Localized: 'In der Tagesphase kannst du folgendes tun:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3296823911030784
+    m_Localized: "- Zu Hause bleiben und diese tollen Informationen lesen\r\n- In
+      der Schule lernen\r\n- Arbeiten, um im B\xFCro Geld zu verdienen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3297262362599424
+    m_Localized: "- Kaufe Produkte, investieren und Geld an andere Nutzer senden
+      im Einkaufszentrum\r\n- Informationen \xFCber das Spiel und Umfragen auf dem
+      Marktplatz abrufen\r\n- Im Rathaus \xFCber offene Petitionen abstimmen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3297517913153536
+    m_Localized: 'In der Abendphase kannst du entweder:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3297546778353664
+    m_Localized: "- Zu Hause bleiben und diese tollen Informationen lesen\r\n- Petitionen
+      erstellen und bestehende Petitionen l\xF6schen und schlie\xDFen im Rathaus\r\n-
+      Dich in der Lounge entspannen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3298090112688128
+    m_Localized: Zuhause
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3298396309463040
+    m_Localized: "Jede Runde beginnt damit, dass alle zu Hause sind. Wenn ein Spieler
+      w\xE4hrend der gesamten Runde zu Hause ist, dann ist er/sie in Quarant\xE4ne,
+      verliert keine Lebenspunkte und ist nicht mehr infiziert, falls der Spieler
+      vorher infiziert war."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3298455071662080
+    m_Localized: "Hier kannst du deine pers\xF6nlichen Daten abrufen und mehr \xFCber
+      die Spielmechanik erfahren."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3298510813962240
+    m_Localized: Krankenhaus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3298706604072960
+    m_Localized: Wenn ein Spieler keine Lebenspunkte mehr hat, wird er/sie ins Krankenhaus
+      gebracht. Danach startet er/sie mit wenig Lebenspunkten und ist nicht (mehr)
+      infiziert.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3299091154640896
+    m_Localized: 'Pflegepaket kaufen:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3299125967364096
+    m_Localized: 'An deinem ersten Tag kannst du ein Pflegepaket kaufen, das den
+      Krankenhausaufenthalt auf einen Tag reduziert.
+
+      Tipp: Die Krankenkasse
+      kauft dieses Paket automatisch.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3299237246443520
+    m_Localized: Die Lounge ist einer von zwei Treffpunkten. Die Lounge kann in der
+      Abendphase der Runde besucht werden.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3299276500934656
+    m_Localized: 'Entspannen:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3299326283128832
+    m_Localized: Das Entspannen in der Lounge senkt dein Stresslevel. Es kostet Geldeinheiten.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3299675081449472
+    m_Localized: Einkaufszentrum
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3299712255565824
+    m_Localized: "Im Einkaufszentrum kannst du Waren und Dienstleistungen kaufen,
+      die f\xFCr das Spiel hilfreich sind."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3299757109452800
+    m_Localized: 'Produkte kaufen:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3299785345507328
+    m_Localized: 'Investieren:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3299891293626368
+    m_Localized: "- Desinfektionsmittel: Verhindert, dass sich der K\xE4ufer in einer
+      bestimmten Runde anstecken kann.\r\n- Gesundheitscheck: Zeigt dein Stresslevel,
+      deine Lebenspunkte und deinen Infektionsstatus.\r\n- Lebenspunkte"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3300064371580928
+    m_Localized: "- Impfstoff-Fond: Erh\xF6ht die Entwicklung von Impfstoffen. Mit
+      zunehmenden kollektiven Investitionen steigt die Wahrscheinlichkeit, dass ein
+      Impfstoff zu Beginn einer Runde spontan entwickelt wird.\r\n- Aktien: Wenn
+      du Aktien kaufst, erh\xE4ltst du zu Beginn jeder Runde eine kleine Dividende."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3300109904945152
+    m_Localized: 'Geld senden:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3300143258050560
+    m_Localized: "Du kannst Geldeinheiten an andere Spieler senden. F\xFCr diese
+      Transaktion fallen keine Geb\xFChren an."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3300203534393344
+    m_Localized: Marktplatz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3300236266741760
+    m_Localized: "Auf dem Marktplatz kannst du allgemeine Informationen \xFCber das
+      Spiel und den aktuellen Stand abrufen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3300263865262080
+    m_Localized: 'Globale Fonds:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3300296144625664
+    m_Localized: "Hier kannst du die aktuellen Werte der Impffonds, die Aktien und
+      den Steuerbetrag \xFCberpr\xFCfen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3300348644728832
+    m_Localized: 'Diagramme:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3300382866055168
+    m_Localized: Hier kannst du eine Auswahl an Statistiken sehen, die verschiedene
+      Spielerattribute und Petitionsergebniss visualisieren.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3300479045640192
+    m_Localized: "B\xFCro"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3300492928786432
+    m_Localized: 'Geld verdienen:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3300540907429888
+    m_Localized: "Durch das Arbeiten im B\xFCro verdienst du Geldeinheiten. Die H\xF6he
+      der Geldeinheiten h\xE4ngt von deinem Ausbildungsstand und den aktuellen Gesamtinvestitionen
+      in Aktien ab.\r\nVorsichtig: Arbeiten erh\xF6ht dein Stresslevel."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3300638517272576
+    m_Localized: Schule
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3300652257812480
+    m_Localized: 'Lernen:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3300681794101248
+    m_Localized: "Indem du in der Schule lernst, erh\xF6hst du dein Bildungsniveau
+      je nach deiner Lerngeschwindigkeit. Das Lernen kostet zun\xE4chst Geldeinheiten."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3300750152867840
+    m_Localized: Rathaus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3300787326984192
+    m_Localized: "Am Abend findet eine Versammlung statt, bei der die Spieler Petitionen
+      entwickeln k\xF6nnen. W\xE4hrend der Tagesphase k\xF6nnen die Spieler hier
+      abstimmen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3300950690930688
+    m_Localized: 'Petitionen:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3300993980342272
+    m_Localized: "Hier kannst du neue Petitionen auf Basis der verf\xFCgbaren Vorlagen
+      entwerfen und bestehende schlie\xDFen oder l\xF6schen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3301025471176704
+    m_Localized: 'Abstimmungen:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3301059264684032
+    m_Localized: "Hier kannst du \xFCber Petitionen abstimmen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3301106014396416
+    m_Localized: 'Auswirkungen der Petitionen:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3301145310830592
+    m_Localized: "Hier kannst du dir einen \xDCberblick \xFCber die Auswirkungen
+      der Petitionen verschaffen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3301296989446144
+    m_Localized: Die Wohlhabenden enteignen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3301335262470144
+    m_Localized: "Enteignung bedeutet, dass jeder Spieler, sobald ein Wert X in der
+      Versammlung beschlossen wurde, am Ende jeder Runde alle Geldeinheiten, die
+      \xFCber diesen Wert X hinausgehen, entzogen bekommt."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3301404401377280
+    m_Localized: "Einf\xFChren einer Krankenversicherung"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3301449003606016
+    m_Localized: "Wenn eine Krankenversicherung eingef\xFChrt wird, wird das Pflegepaket
+      automatisch gekauft und die Kosten werden gleichm\xE4\xDFig auf alle Spieler
+      verteilt. Wenn die Steuern aktiv sind, wird das Pflegepaket \xFCber Steuern
+      finanziert."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3301544801509376
+    m_Localized: Die Lounge wird geschlossen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3301566020493312
+    m_Localized: "Mindestlohn \xE4ndern"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3301600048881664
+    m_Localized: Bei dieser Petition ist das Einkommen aller Spieler betroffen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3301631048982528
+    m_Localized: Kostenlose Schule
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3301660979535872
+    m_Localized: "Initial kostet ein Schulbesuch 10 Geldeinheiten. Mit dieser Petition
+      werden die Kosten f\xFCr einen Besuch auf alle Spieler gleichm\xE4\xDFig verteilt.
+      Wenn Steuern aktiv sind, wird die Schule durch Steuern finanziert."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3301722992320512
+    m_Localized: "Einf\xFChren der sozialen Sicherheit"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3301768731205632
+    m_Localized: "Wenn die soziale Sicherheit eingef\xFChrt wird, werden Spieler,
+      die am Ende einer Runde einen negativen Betrag an Geldeinheiten haben, automatisch
+      auf 10 Geldeinheiten gesetzt. Diese werden aus der Steuerkasse oder von allen
+      gleicherma\xDFen bezahlt."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3301829481504768
+    m_Localized: "\xC4ndern der Einkommenssteuer oder der Verm\xF6gensteuer"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3301944871002112
+    m_Localized: "Steuern k\xF6nnen eingef\xFChrt werden, um soziale Sicherheit,
+      Schulgeld oder Krankenversicherung zu bezahlen. Der Steuerfonds wird durch
+      die Einkommens- und Verm\xF6gensteuer gef\xFCllt.\r\nVorsichtig: Steuerdefizite
+      werden unter allen Spielern aufgeteilt."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3302183300407296
+    m_Localized: Geldeinheiten
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3302224790462464
+    m_Localized: "Du beginnst mit 15 bis 40 Geldeinheiten und kannst im B\xFCro Geldeinheiten
+      verdienen. Die Geldeinheiten, die du durch Arbeit verdienst, h\xE4ngen von
+      deinem Bildungsniveau ab.\r\n\nSie k\xF6nnen im Einkaufszentrum verwendet werden,
+      um Produkte zu kaufen und in Fonds zu investieren, und im Krankenhaus, um ein
+      Pflegepaket zu kaufen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3302323985752064
+    m_Localized: Lebenspunkte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3302346156843008
+    m_Localized: "Zu Beginn hast du zwischen 10 und 30 Lebenspunkte. Du kannst deine
+      Gesundheitspunkte erh\xF6hen, indem du sie im Einkaufszentrum kaufst.\n\nAm
+      Ende jeder Runde verlierst du 10 Lebenspunkte. Wenn du infiziert bist, verlierst
+      du zus\xE4tzlich 10 Lebenspunkte. Ein h\xF6herer Stresslevel f\xFChrt zu einem
+      noch gr\xF6\xDFeren Verlust an Lebenspunkten.\n\nVorsichtig: Wenn deine Lebenspunkte
+      zu Beginn einer Runde auf oder unter 0 sind, wirst du automatisch ins Krankenhaus
+      gebracht."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3302604563718144
+    m_Localized: Infektion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3302646234128384
+    m_Localized: "10% der Spieler/innen beginnen das Spiel infiziert. Infizierte
+      Spieler k\xF6nnen dich anstecken, wenn sie zur gleichen Zeit in demselben Geb\xE4ude
+      sind. Je mehr Kontakt du zu infizierten Spielern hast, desto h\xF6her ist die
+      Wahrscheinlichkeit einer Ansteckung.\n\nZu Beginn jeder Runde, wenn sonst niemand
+      mehr infiziert ist, besteht f\xFCr jeden Spieler eine 10%ige Chance, sich spontan
+      zu infizieren.\n\nNach einem Tag Quarant\xE4ne (ein Tag, an dem du dich nur
+      in der Stadt und in deinem Haus aufh\xE4ltst) oder einem Aufenthalt im Krankenhaus
+      ist deine Infektion vor\xFCbergehend geheilt."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3302782976827392
+    m_Localized: Stresslevel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3302810202054656
+    m_Localized: "Du beginnst mit einem Stresslevel von 0. Wenn du im B\xFCro arbeitest
+      oder in der Schule lernst, steigt dein Stresslevel.\r\n\nJe h\xF6her dein Stresslevel
+      ist, desto mehr Lebenspunkte verlierst du zu Beginn einer Runde.\r\n\nTipp:
+      Du kannst deinen Stresslevel reduzieren, indem du dich in der Lounge entspannst."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3302917886615552
+    m_Localized: Lernrate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3302947334823936
+    m_Localized: "Du spielst mit einer zuf\xE4lligen, festen Lernrate. Deine Lernrate
+      bestimmt, wie schnell dein Bildungsniveau ansteigt, wenn du in der Schule lernst."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3303072715153408
+    m_Localized: Bildungsniveau
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3303102100447232
+    m_Localized: "Du beginnst mit einer Bildungsniveau von 1 und kannst es durch
+      Lernen in der Schule erh\xF6hen. Der Bildungsfortschritt, den du durch Lernen
+      erreichst, h\xE4ngt von deiner Lerngeschwindigkeit ab.\r\n\nTipp: Je h\xF6her
+      deine Bildung ist, desto mehr Geldeinheiten verdienst du bei der Arbeit im
+      B\xFCro."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3303282778480640
+    m_Localized: Charakter-Einstellungen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3303312897777664
+    m_Localized: "Hier kannst du deinen Charakter anpassen. Du kannst dein Geschlecht,
+      deine Haare, die Farbe deiner Haut, deine Maske, dein Hemd, deine Hose und
+      deine Schuhe \xE4ndern."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3303370003226624
+    m_Localized: Allgemeine Einstellungen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3303400286101504
+    m_Localized: "Hier kannst du allgemeine Einstellungen vornehmen, z.B. ob m\xF6gliche
+      Trigger-Elemente ausgeblendet werden sollen oder ob bestimmte HUD-Elemente
+      sichtbar sind."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3303453029474304
+    m_Localized: Tastenbelegungen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3303486541963264
+    m_Localized: "Hier kannst du festlegen, welche Tasten du f\xFCr die Interaktionen
+      mit dem Spiel verwendest."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3303543970373632
+    m_Localized: "Lautst\xE4rke-Einstellungen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3303574412632064
+    m_Localized: "Hier kannst du die Lautst\xE4rke der Effekte, der Umgebungsger\xE4usche
+      und der Stimmen der anderen Spieler sowie den Schwellenwert f\xFCr deine Sprachaktivierung
+      \xE4ndern. Au\xDFerdem kannst du dein Eingabeger\xE4t \xE4ndern, das f\xFCr
+      den Voice-Chat verwendet wird."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3304249137733632
+    m_Localized: Geldeinheiten
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3304280171388928
+    m_Localized: Lebenspunkte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3304299582627840
+    m_Localized: Infektion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3304322680659968
+    m_Localized: Stresslevel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3304341018157056
+    m_Localized: Lernrate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3304359779278848
+    m_Localized: Bildungsniveau
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4293569466245120
+    m_Localized: Du kannst dich nicht mit dem Master-Client als Spieler anmelden!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4295163821858816
+    m_Localized: Es gibt ein kritisches Problem mit dem Client!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4295731193749504
+    m_Localized: Du solltest jetzt im Krankenhaus sein!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4295842430885888
+    m_Localized: ' Das Spiel ist im Lockdown und deshalb kannst du die Lounge nicht
+      betreten!'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4296469810683904
+    m_Localized: "Der Mindestlohn darf nicht h\xF6her sein als der aktuell h\xF6chste
+      Lohn."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4296653114351616
+    m_Localized: "Du hast bereits \xFCber diese Petition abgestimmt!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4296775277649920
+    m_Localized: Du hast heute schon gelernt!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4296883658465280
+    m_Localized: Du hast heute schon gearbeitet!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4296929091166208
+    m_Localized: "Du hast nicht gen\xFCgend Geldeinheiten!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4297201381187584
+    m_Localized: Du hast bereits ein Pflegepaket gekauft!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4297332558045184
+    m_Localized: Du kannst nur ein Pflegepaket kaufen, wenn du noch 2 Tage im Krankenhaus
+      bist.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6728348564365312
+    m_Localized: (Auswirkungen mit derzeit offenen Petitionen sind unterstrichen.)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8713638304718848
+    m_Localized: Schwarz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8713640355733504
+    m_Localized: "Wei\xDF"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8713641840517120
+    m_Localized: Grau
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8713703471620096
+    m_Localized: Gelb
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8713704759271424
+    m_Localized: Orange
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8713706248249344
+    m_Localized: Rot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8713707741421568
+    m_Localized: "Gr\xFCn"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8713709234593792
+    m_Localized: Blau
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8713710857789440
+    m_Localized: Lila
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8713712971718656
+    m_Localized: Sehr Hell
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8713714456502272
+    m_Localized: Hell
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8713715907731456
+    m_Localized: Mittel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8713717312823296
+    m_Localized: Dunkel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8713718965379072
+    m_Localized: Sehr Dunkel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8713875610050560
+    m_Localized: Braun
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8713876897701888
+    m_Localized: Blond
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8713878164381696
+    m_Localized: Dunkelblond
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8714565568864256
+    m_Localized: "M\xE4nnlich"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8714567175282688
+    m_Localized: Weiblich
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29204979993255936
+    m_Localized: Ist Kreativ
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31554452428857344
+    m_Localized: "Sind Aktieneink\xFCnfte steuerfrei?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31554459299127296
+    m_Localized: "Anteil der Steuereinnahmen f\xFCr Impfstoff:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31554467532546048
+    m_Localized: Sind Spieler zufriedener?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31554471697489920
+    m_Localized: "Betrag f\xFCr Spieler im Rathaus:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31565458639069184
+    m_Localized: Ist Infiziert
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31574422864961536
+    m_Localized: 'Andere
+
+      Statistiken'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31574877519126528
+    m_Localized: Andere Statistiken
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31719678264647680
+    m_Localized: "Du f\xFChlst dich wieder entspannt."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31719686225436672
+    m_Localized: "Du f\xFChlst dich wieder gut."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31719688087707648
+    m_Localized: "Du f\xFChlst dich immer noch gestresst."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31719689517965312
+    m_Localized: "Du f\xFChlst dich immer noch sehr gestresst."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1
+    00000000:
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 00a09aeb09680a0000a0dabd3e7c0a0000a01ad4c47f0a0000a0da6ac47f0a0000a05ab666800a0000a01acc65800a0000a05a13c7860a0000a05ab4d0860a0000a09ae838880a0000a0da9b36890a0000a09abd378c0a0000a05adb088e0a0000a0da42fc8d0a0000a01a07ba8f0a0000a09aa4b98f0a0000a09ad5af8f0a0000a05a733b910a0000a05a649b900a0000a01a34b6910a0000a05ad61f930a0000a0da6b249c0a0000a05a9c229c0a0000a01a8fc69c0a0000a05a4a349d0a0000a09a381f080b0000a05aaa949b0a0000a05a15aa9b0a0000a0da09d9140b0000a09a43dd140b0000a05abc76770b00

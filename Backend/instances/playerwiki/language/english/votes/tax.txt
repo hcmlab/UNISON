@@ -1,0 +1,3 @@
+Change the income tax rate or change the property tax rate
+Initially there are no taxes. Taxes can be introduced to pay social safety, school tuition or health insurance. The tax fund is filled by the income and property tax. If after a round there are not enough taxes collected the deficit is divided among all players.
+

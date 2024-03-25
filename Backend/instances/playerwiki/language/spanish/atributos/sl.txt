@@ -1,0 +1,1 @@
+El nivel de estrés (SL) aumenta la cantidad de HP que se pierde. Se genera por el trabajo intensivo. Todos los jugadores comienzan con un nivel de estrés 0. Una visita a la oficina y a la escuela aumenta el nivel de estrés. Pero la cantidad generada en la escuela es mucho mayor que en la oficina.

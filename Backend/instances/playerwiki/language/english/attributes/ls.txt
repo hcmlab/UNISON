@@ -1,0 +1,1 @@
+Learning Speed (LS) aﬀects how quickly the ED increases in the school. Players will be initialized with slightly different but random amount of learning speed. It remains constant throughout the game. 

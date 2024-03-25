@@ -1,0 +1,1 @@
+Health points (HP) are lost during the game and need to be refilled. Per round a healthy player loses a certain amount, while an infected player loses twice that amount. Furthermore, a high stress level increases HP loss. Additional HP can be purchased at the mall.

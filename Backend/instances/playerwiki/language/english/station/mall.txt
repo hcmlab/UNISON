@@ -1,0 +1,12 @@
+•	The mall (supermarket, bank, pharmacy), where players can purchase goods and services that they require or are helpful for the game.
+Goods and services available:
+•	Health points:
+Players can purchase HP for 10 MU. The first purchase gives them 10 HP, the second 5HP, the third 2.5 HP, etc.
+•	A disinfectant:
+The disinfectant disables the possibility of being infected for its buyer in a given round. It does not protect other players from infection. For an infectious player the disinfectant is therefore useless. The price is 10 MU.
+•	A health check gives you information about your SL, HP and IS. It costs 20 MU.
+•	The vaccine fund:
+Players can invest into vaccine development. With increasing collective investment, the likelihood of a vaccine being spontaneously developed at the beginning of a round increases.
+The stock fund:
+You can purchase stocks and get a small dividend for it. Additionally, the productivity of all players will slightly increase, resulting in a higher payroll at the office.
+•	Bank transfer to send money to other players. This transaction does not imply fees.

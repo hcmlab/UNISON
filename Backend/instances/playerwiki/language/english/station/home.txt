@@ -1,0 +1,4 @@
+Home
+
+Every round starts with everyone being at home. Once every player has returned to the home station, the round ends and the next round starts. If a player is in quarantine, they stay at home during the entire next round, lose no HP and drop their infection if they had one. The home station contains an interface that displays additional group and personal information and more details about game mechanics.
+

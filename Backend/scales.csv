@@ -1,0 +1,20 @@
+1;cost disinfectant
+2;cost hp
+3;cost health check
+4;office factor
+5;cost school
+6;infection probability
+7;HP loss every round
+8;stock dividend (%)
+9;growth per stock (inverse)
+10;income tax level
+11;property tax level
+12;health insurance
+13;school cost free
+14;lockdown
+15;minimum wage
+16;disappropriation
+17;social safety
+18;hp loss due to covid
+19;cost lounge
+20;cost care package

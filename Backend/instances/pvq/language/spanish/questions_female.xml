@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<root>
+    <item>
+        <content>
+            Cree que es importante que sólo tomen decisiones importantes quienes sean competentes.
+        </content>
+        <answer>
+            0
+        <player><id>0004670220</id><val>0</val></player></answer>
+</item>
+    <item>
+        <content>
+            Cuando se le ofrece mucho, opta por no tomar tanto. Piensa que para estar cómoda no necesita mucho.
+        </content>        
+        <answer>
+            0
+        <player><id>0004670220</id><val>2</val></player></answer>        
+    </item>
+    <item>
+        <content>
+            Cree que es importante ser persistente. Cuando está convencida de algo, cree que mantenerse firme es algo bueno.
+        </content>        
+        <answer>
+            0
+        <player><id>0004670220</id><val>2</val></player></answer>
+    </item>
+    <item>
+        <content>
+            Piensa que sólo cuando sea disciplinada, logrará algo en la vida. Piensa que es importante que mantenga el control sobre sí misma.
+        </content>        
+        <answer>
+            0
+        <player><id>0004670220</id><val>3</val></player></answer>        
+    </item>
+    <item>
+        <content>
+            Cree que es importante tener un objetivo en mente por el que trabajar. Cree que es honorable tener una ambición clara en la vida.
+        </content>        
+        <answer>
+            0
+        <player><id>0004670220</id><val>5</val></player></answer>        
+    </item>
+    <item>
+        <content>
+            Cree que es bueno estar abierto al cambio. Sólo si es flexible, piensa, podrá enfrentarse a la vida.
+        </content>        
+        <answer>
+            0
+        <player><id>0004670220</id><val>0</val></player></answer>        
+    </item>
+    <item>
+        <content>
+            Los demás son importantes para ella. Cree que es bueno ayudar aunque no reciba nada a cambio.
+        </content>        
+        <answer>
+            0
+        <player><id>0004670220</id><val>3</val></player></answer>        
+    </item>
+    <item>
+        <content>
+            Piensa que es importante que las cosas se hagan de forma correcta. Cree que las cosas sólo funcionan cuando se hacen con cuidado, precisión y exactitud.
+        </content>        
+        <answer>
+            0
+        <player><id>0004670220</id><val>2</val></player></answer>        
+    </item>
+    <item>
+        <content>
+            De vez en cuando, es importante para ella que la gente disfrute de su vida. Se le ocurren muchas cosas que hacen que la vida sea cómoda.
+        </content>        
+        <answer>
+            0
+        <player><id>0004670220</id><val>6</val></player></answer>        
+    </item>
+    <item>
+        <content>
+            Para ella es muy importante vivir rodeada de personas que se cuidan entre sí. Cree que una comunidad fuerte es crucial.
+        </content>        
+        <answer>
+            0
+        <player><id>0004670220</id><val>-1</val></player></answer>        
+    </item>
+    <item>
+        <content>
+            Cree que es injusto que se trate a las personas de forma diferente, dependiendo de ciertos atributos que tengan. La gente debería tener las mismas oportunidades de participar.
+        </content>        
+        <answer>
+            0
+        <player><id>0004670220</id><val>0</val></player></answer>        
+    </item>
+    <item>
+        <content>
+            Cree que es importante que todos los grupos de la sociedad estén proporcionalmente representados. Para ella, las decisiones justas sólo deben tomarse cuando todos tienen la misma participación.
+        </content>        
+        <answer>
+            0
+        <player><id>0004670220</id><val>2</val></player></answer>        
+    </item>
+    <item>
+        <content>
+            Está convencida de que es bueno ayudarse mutuamente. Cree que la gente debería apoyarse más entre sí.
+        </content>        
+        <answer>
+            0
+        <player><id>0004670220</id><val>3</val></player></answer>        
+    </item>
+    <item>
+        <content>
+            Para ella es importante tener un liderazgo fuerte. Cree que las decisiones complicadas deben ser tomadas por los responsables.
+        </content>        
+        <answer>
+            0
+        <player><id>0004670220</id><val>4</val></player></answer>        
+    </item>
+    <item>
+        <content>
+            Cree que es importante trabajar duro para conseguir cosas en la vida.
+        </content>        
+        <answer>
+            0
+        <player><id>0004670220</id><val>5</val></player></answer>        
+    </item>
+    <item>
+        <content>
+            Para ella es importante que en las decisiones importantes tengan voz los afectados.
+        </content>        
+        <answer>
+            0
+        <player><id>0004670220</id><val>0</val></player></answer>        
+    </item>
+    <item>
+        <content>
+            Cree que está bien cometer errores. Cree que la gente debería aprender a aceptar los defectos de los demás o los suyos propios.
+        </content>        
+        <answer>
+            0
+        <player><id>0004670220</id><val>2</val></player></answer>        
+    </item>
+    <item>
+        <content>
+            Para ella es importante que las cosas se planifiquen cuidadosamente. Cree que un buen plan es esencial para la mayoría de las cosas.
+        </content>        
+        <answer>
+            0
+        <player><id>0004670220</id><val>3</val></player></answer>        
+    </item>
+    <item>
+        <content>
+            Para ella, la vida es una cuestión de autorrealización. Cree que es importante hacer cosas en la vida que sean interesantes y que la ayuden a crecer.
+        </content>        
+        <answer>
+            0
+        <player><id>0004670220</id><val>0</val></player></answer>        
+    </item>
+    <item>
+        <content>
+            Cree que no todo necesita un plan. Para ella es importante estar a veces abierto a hacer cosas de forma espontánea.
+        </content>        
+        <answer>
+            0
+        <player><id>0004670220</id><val>2</val></player></answer>        
+    </item>
+    <item>
+        <content>
+            En su opinión, la tradición puede ayudar a las personas a orientarse y darles estabilidad. Por eso cree que la tradición es muy importante.
+        </content>        
+        <answer>
+            0
+        <player><id>0004670220</id><val>0</val></player></answer>        
+    </item> 
+    <item>
+        <content>
+            En su opinión, la sociedad no debería ser restrictiva y cualquiera debería tener la oportunidad de defenderse por sí mismo. Cree que ser independiente es muy importante.
+        </content>        
+        <answer>
+            0
+        <player><id>0004670220</id><val>2</val></player></answer>        
+    </item> 
+    <item>
+        <content>
+            En su opinión, la sociedad funcionaría mucho mejor si la gente se comportara de forma responsable. Para ella es importante pensar en la gente que la rodea.
+        </content>        
+        <answer>
+            0
+        <player><id>0004670220</id><val>3</val></player></answer>        
+    </item>    
+    <item>
+        <content>
+           Cree que el mundo está cambiando rápidamente. Por eso cree que la voluntad de cambio es esencial. 
+        </content>        
+        <answer>
+            0
+        <player><id>0004670220</id><val>3</val></player></answer>        
+    </item> 
+    <item>
+        <content>
+            Cree que todos los miembros de la sociedad deberían disfrutar más de la vida. Para ella no tiene mucho sentido que una sociedad suprima las necesidades individuales con normas sociales.
+        </content>        
+        <answer>
+            0
+        <player><id>0004670220</id><val>2</val></player><player><id>0004670220</id><val>3</val></player><player><id>0004670220</id><val>0</val></player><player><id>0004670220</id><val>0</val></player><player><id>0004670220</id><val>4</val></player></answer>        
+    </item>                                        
+</root>

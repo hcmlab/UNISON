@@ -1,0 +1,1 @@
+Money units (MU) allow you to purchase certain goods and services. A player starts with a random amount and can earn money in the oﬃce.

@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3822846753716881162
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3822846753716881163}
+  - component: {fileID: 3822846753716881271}
+  - component: {fileID: 3822846753716881270}
+  - component: {fileID: 3822846753716881161}
+  - component: {fileID: 3822846753716881160}
+  m_Layer: 0
+  m_Name: Settings
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3822846753716881163
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3822846753716881162}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3822846753716881271
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3822846753716881162}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d79315af2da45dda267ba3ed20b4e12, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gameSettings: {fileID: 11400000, guid: 65d369103048db14e8d725bcc419d80e, type: 2}
+--- !u!114 &3822846753716881270
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3822846753716881162}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 492fde8ba0feb5943853e94137bcc59c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  defaultAudioSettings: {fileID: 11400000, guid: ca8fb8672cd3e314f8eb25340d361361,
+    type: 2}
+  audioMixer: {fileID: 24100000, guid: 94775662f31cb1c4d9667ebaee56718f, type: 2}
+  gameSettings: {fileID: 11400000, guid: 65d369103048db14e8d725bcc419d80e, type: 2}
+--- !u!114 &3822846753716881161
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3822846753716881162}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5153d2d392b98da4dbc62fbc76eda65e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  defaultControlSettings: {fileID: 11400000, guid: e321dc2b398a38f47bf261c161b333f3,
+    type: 2}
+--- !u!114 &3822846753716881160
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3822846753716881162}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0739db85553ea9547b48ba20a3f86b1f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  avatarCustomizationOptions: {fileID: 11400000, guid: f370dc952333ce045bc52ae5ecfc9cf3,
+    type: 2}

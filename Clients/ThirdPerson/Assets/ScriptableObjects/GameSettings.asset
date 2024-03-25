@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b0014110db954b4393b30a309f76c99, type: 3}
+  m_Name: GameSettings
+  m_EditorClassIdentifier: 
+  minDurationDay: 30
+  maxDurationDay: 900
+  defaultDurationDay: 300
+  defaultDurationEvening: 300
+  eveningDialogDuration: 20
+  registerPetitionDialogDuration: 20
+  minLobbySize: 1
+  defaultLobbySize: 16
+  maxLobbySize: 32
+  minCooldown: 1
+  defaultCooldown: 10
+  minPlayerNameLength: 3
+  maxPlayerNameLength: 20
+  minInstanceNameLength: 3
+  maxInstanceNameLength: 20
+  spectatorSpeed: 0.25
+  spectatorSprintMultiplier: 2
+  playerSpeed: 6
+  turnSmoothTime: 0.1
+  currencySymbol: MU
+  syringesEnabled: 1
+  hospitalSoundEnabled: 1
+  keyBindingsOverviewEnabled: 1
+  buttonsOverviewEnabled: 1
+  minimapEnabled: 1
+  refreshTime: 0.1
+  minVolume: 0
+  maxVolume: 100
+  minVoiceDetectionThreshold: 1
+  maxVoiceDetectionThreshold: 10
+  smallKeyCodeMaxLength: 3

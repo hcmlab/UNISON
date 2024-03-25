@@ -1,0 +1,185 @@
+[0409/172736.333:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0409/180000.026:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0409/180052.830:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0409/180232.170:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0409/181002.851:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0409/181221.965:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0409/181257.928:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0409/181337.410:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0409/181907.810:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0409/182117.290:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0409/182205.600:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0409/182246.961:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0409/182312.469:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0409/183010.904:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0409/183024.467:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0409/183106.082:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0409/183446.083:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0409/183536.419:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0409/184436.295:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0409/184556.638:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0409/185013.990:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0409/190354.615:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0410/144817.646:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0410/153840.689:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0410/153916.660:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0410/154327.633:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0410/154453.013:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0410/154703.631:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0410/154940.522:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0410/155057.329:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0410/155734.242:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0410/155828.772:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0410/160041.506:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0410/160303.592:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0410/160820.720:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0410/162333.537:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0410/162629.603:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0410/163345.360:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0410/163421.840:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0410/163444.813:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0411/134441.065:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0411/212956.128:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0411/213016.720:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0411/213530.814:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0411/215303.004:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0421/215356.786:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0421/215657.219:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0421/220541.381:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0421/220633.484:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0421/230240.400:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0421/230359.532:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0421/232047.684:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0421/232126.541:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0421/232410.713:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0421/232600.575:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0421/233538.645:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0421/234017.452:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0421/234325.271:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0429/211319.511:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0429/211419.446:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0429/211505.647:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0429/211853.900:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0429/212126.085:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0429/212207.704:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0429/212416.424:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0430/130331.450:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0430/131943.451:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0430/132117.296:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0516/111327.769:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0516/113204.850:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0516/113409.672:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0516/121836.928:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0516/123043.135:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0516/123112.912:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0516/123541.270:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0516/123811.251:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0516/124234.732:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0516/124307.508:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0516/124834.903:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0516/124920.110:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0516/125753.957:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0516/130039.933:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0516/130154.216:ERROR:ChromiumLogFunctions.h(15)] 216249816 [ChromiumToPluginBridge] ReadFile failed with error code: 109
+[0516/130238.359:ERROR:ChromiumLogFunctions.h(15)] 216293959 Didn't receive a heartbeat message from the main process, so it must have died. Terminating the Vuplex WebView Chromium process...
+[0516/130238.507:ERROR:ChromiumLogFunctions.h(15)] 216294108 [ChromiumToPluginBridge] WriteFile failed with error code: 232
+[0516/130707.033:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0516/131756.441:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0516/131824.206:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0516/132333.414:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0516/132531.643:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0516/132754.153:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0516/132917.767:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0516/133517.236:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0516/133917.126:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0516/134251.323:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0516/134327.253:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0516/135705.530:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0516/141329.230:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0516/143607.357:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0516/143639.204:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0516/144236.465:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0516/145454.094:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0516/151030.389:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0516/151115.940:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0516/160805.267:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0516/161129.698:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0516/161216.679:ERROR:ChromiumLogFunctions.h(15)] 227672278 [ChromiumToPluginBridge] ReadFile failed with error code: 109
+[0516/161329.615:ERROR:ChromiumLogFunctions.h(15)] 227745215 Didn't receive a heartbeat message from the main process, so it must have died. Terminating the Vuplex WebView Chromium process...
+[0516/161329.849:ERROR:ChromiumLogFunctions.h(15)] 227745450 [ChromiumToPluginBridge] WriteFile failed with error code: 232
+[0516/164237.660:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0516/165516.402:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0516/165601.553:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0516/165840.780:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0516/191407.253:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0516/191804.642:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0516/192013.705:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0516/192213.600:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0516/193545.608:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0516/193757.307:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0516/194320.792:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0516/194609.702:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0516/195118.925:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0516/195233.124:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0516/195456.398:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0516/195507.675:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0516/195717.461:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0516/200334.705:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0516/200533.088:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0516/201019.176:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0516/201040.646:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0516/201100.516:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0516/201202.568:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0516/211530.647:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0516/211745.212:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0516/212158.422:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0516/212930.829:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0516/213542.774:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0516/214015.324:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0516/214106.579:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0516/234150.267:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0516/234308.971:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0516/235353.770:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0516/235419.889:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0516/235852.559:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0517/000421.828:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0517/001937.898:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0523/171421.623:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0523/172703.603:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0523/173312.270:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0523/192738.324:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0523/192744.507:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0523/200454.997:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0523/200511.065:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0523/200706.554:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0523/210110.337:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0523/210120.817:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0523/210842.936:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0523/211122.510:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0523/211742.608:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0523/211925.436:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0523/212500.849:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0523/213125.277:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0523/213725.129:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0523/214237.857:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0523/214431.105:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0523/215108.435:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0523/215651.332:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0523/215849.709:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0523/220322.050:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0523/220607.492:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0523/220613.078:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0523/221945.018:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0523/222213.092:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0523/222505.685:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0523/222911.508:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0523/224028.301:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0523/224111.305:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0523/225545.931:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0523/225627.313:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0523/230141.706:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0523/230321.982:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0523/231746.196:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[0523/233246.280:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0524/185222.044:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0524/191311.123:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled

@@ -1,0 +1,2 @@
+Durante una reunión del ayuntamiento, los jugadores presentes pueden diseñar una petición. Pueden elegir el tema de la petición y activar o desactivar un atributo o fijar la escala en un valor determinado.
+Estas peticiones siguen uno de los ocho patrones básicos

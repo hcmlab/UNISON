@@ -1,0 +1,1 @@
+Los puntos de salud (HP) se pierden durante la partida y hay que rellenarlos. Por ronda, un jugador sano pierde una cantidad determinada, mientras que un jugador infectado pierde el doble de esa cantidad. Además, un nivel de estrés elevado aumenta la pérdida de HP. Se pueden comprar más HP en el centro comercial.

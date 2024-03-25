@@ -1,0 +1,3 @@
+Introduce health insurance
+If health insurance is introduced, the care package is automatically purchased, and the costs will be distributed among all players equally. If taxes are active, the care package will be financed through taxes.
+

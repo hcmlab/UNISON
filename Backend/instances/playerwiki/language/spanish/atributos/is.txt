@@ -1,0 +1,8 @@
+Estado de infección (IS)
+Inicialmente, cada jugador tiene un estado de infección aleatorio. Este estado de infección puede cambiar por cinco mecanismos:
+1.	Un jugador infectado puede entrar en cuarentena, lo que significa permanecer en la estación de origen durante toda la ronda. En este caso, su estado de infección se establece como no infectado. Mientras está en cuarentena el jugador no pierde HP y disminuye ligeramente su nivel de estrés.
+2.	Un jugador que no está infectado puede infectarse visitando la misma estación que alguien infectado ha visitado antes. Cuantos más lugares se visiten en una ronda determinada, mayor será la probabilidad de infectarse. Si un jugador compra desinfectante, no se infectará en esta ronda.
+3.	Después de una estancia en el hospital, los jugadores no se infectan automáticamente.
+4.	La vacuna cura a todos los jugadores y restringe las nuevas infecciones.
+5.	Existe una pequeña posibilidad de que todos los jugadores se infecten espontáneamente después de cada ronda, si es que ya no hay nadie infectado. Esto sólo se evita si la vacuna está disponible. Esto significa que la única manera de acabar con la pandemia es que la vacuna esté disponible. Que todos los jugadores se queden en casa no es una estrategia posible para acabar con los eﬀectos del virus.
+

@@ -1,0 +1,3 @@
+La escuela (the school)
+Al inscribirse en la escuela, se puede aumentar la ED en función de la LS del jugador. Una visita cuesta inicialmente 10 UM.
+

@@ -1,0 +1,11 @@
+Error number;Error text;Explanation
+1;Value missing;The action handler expected values that were not given.
+2;Insufficient money;The action cannot be performed, because the player has not sufficient money for the action.
+3;already in office/school;The player was already in the office or in school in this round.
+4;id already in use;The registration could not be completed, because the given id is already in use. 
+5;name already in use;The registration could not be completed, because the given name is already in use. 
+6;Vaccine was found;The vaccine was found and the game is over.
+7;player is in hospital;The player cannot perform this action because he is in the hospital.
+8;in lockdown;The game is in lockdown.
+9;minwage exceeds maxwage;The minimum wage is set higher than the resulting maximum wage.
+10;this info doesn't exist (yet);The requested info page doesn't exist

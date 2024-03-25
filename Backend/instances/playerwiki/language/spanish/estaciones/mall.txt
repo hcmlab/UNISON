@@ -1,0 +1,13 @@
+•	El centro comercial “the Mall” (supermercado, banco, farmacia), donde los jugadores pueden adquirir los bienes y servicios que necesiten o sean útiles para el juego.
+Bienes y servicios disponibles:
+1.	Puntos de salud:
+Los jugadores pueden comprar HP por 10 MU. La primera compra les da 10 HP, la segunda 5HP, la tercera 2,5 HP, etc.
+2.	Un desinfectante:
+El desinfectante desactiva la posibilidad de ser infectado para su comprador en una ronda determinada. No protege a los demás jugadores de la infección. Para un jugador infectado el desinfectante es por tanto inútil. Su precio es de 10 UM.
+3.	Un chequeo de salud te da información sobre tu SL, HP e IS. Su precio es de 20 MU.
+4.	El fondo de vacunas:
+Los jugadores pueden invertir en el desarrollo de vacunas. Con el aumento de la inversión colectiva, la probabilidad de que una vacuna se desarrolle espontáneamente al principio de una ronda aumenta.
+5.	El fondo de acciones:
+Puedes comprar acciones y obtener un pequeño dividendo por ello. Además, la productividad de todos los jugadores aumentará ligeramente, lo que dará lugar a una mayor nómina en la oficina.
+6.	Transferencia bancaria para enviar dinero a otros jugadores. Esta transacción no implica comisiones.
+

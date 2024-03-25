@@ -1,0 +1,2 @@
+Introduce social safety
+If social safety is introduced, players that have a negative amount of MU at the end of a round are automatically set to 10 MU. This is paid from the tax fund, or if the tax fund is not active, by all players equally.

@@ -1,0 +1,3 @@
+Cambiar el salario mínimo
+En esta petición se aﬀectan los ingresos de todos los jugadores.
+

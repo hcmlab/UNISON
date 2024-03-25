@@ -1,0 +1,8 @@
+Infection state (IS)
+Initially every player is set with a random infection state. This infection state can change by five mechanisms:
+1.	An infected player can get into quarantine, which means staying in the home station for the entire round. In this case his infection state is set to not infected. While in quarantine a player loses no HP and slightly decreases their stress level.
+2.	A player that is not infected can become infected by visiting the same station someone that is infected has visited before. The more places one visits in a given round, the higher the chance to get infected becomes. If a player buys disinfectant, they will not get infected in this round.
+3.	After a hospital stay players are automatically not infected.
+4.	The vaccine cures all players and restricts new infections.
+5.	There is a small chance for every player to spontaneously get infected after every round, if otherwise no one is infected anymore. This is only prevented if the vaccine is available. This means that the only way to end the pandemic is for the vaccine to be available. All players staying at home is not a possible strategy to end the eﬀects of the virus.
+
