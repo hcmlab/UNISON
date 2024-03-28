@@ -78,7 +78,7 @@
         <div style="height:100px;width:200px;background-color:grey;border: 1px solid black;border-radius:5px;display:block;float:left;margin:5px;" onclick="backendexchange2('test','s01','0000000000')"><p>s01</p></div>
         <div style="height:100px;width:200px;background-color:grey;border: 1px solid black;border-radius:5px;display:block;float:left;margin:5px;" onclick="backendexchange2('test','s02','0000000000')"><p>s02</p></div>
         <div style="height:100px;width:200px;background-color:grey;border: 1px solid black;border-radius:5px;display:block;float:left;margin:5px;" onclick="backendexchange2('test','l01','0000000000')"><p>l01</p></div>
-        <div style="height:100px;width:200px;background-color:grey;border: 1px solid black;border-radius:5px;display:block;float:left;margin:5px;" onclick="backendexchange2('test','l02','0000000000')"><p>l02/p></div>
+        <div style="height:100px;width:200px;background-color:grey;border: 1px solid black;border-radius:5px;display:block;float:left;margin:5px;" onclick="backendexchange2('test','l02','0000000000')"><p>l02</p></div>
         <div style="height:100px;width:200px;background-color:grey;border: 1px solid black;border-radius:5px;display:block;float:left;margin:5px;" onclick="backendexchange1('test','votetemp')"><p>votetemp</p></div>
         <div style="height:100px;width:200px;background-color:grey;border: 1px solid black;border-radius:5px;display:block;float:left;margin:5px;" onclick="backendexchange3('test','vote','0000000000',1,'yes')"><p>vote</p></div>
         <div style="height:100px;width:200px;background-color:grey;border: 1px solid black;border-radius:5px;display:block;float:left;margin:5px;" onclick="backendexchange2('test','closevote',1)"><p>closevote</p></div>
